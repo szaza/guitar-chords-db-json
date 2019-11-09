@@ -1,0 +1,28 @@
+{
+    "key": "E",
+    "suffix": "13/G",
+    "positions": [
+        {
+            "frets": "320120",
+            "fingers": "420130"
+        },
+        {
+            "frets": "xac999",
+            "fingers": "024111",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "fxcdec",
+            "fingers": "401231",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "fheeeg",
+            "fingers": "241113",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

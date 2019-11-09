@@ -1,0 +1,64 @@
+{
+    "key": "B",
+    "suffix": "5/D",
+    "positions": [
+        {
+            "frets": "xx0x02",
+            "fingers": "000001"
+        },
+        {
+            "frets": "xxx777",
+            "fingers": "000111",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x54477",
+            "fingers": "021144",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "x544x2",
+            "fingers": "042301"
+        },
+        {
+            "frets": "a99x77",
+            "fingers": "423011",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "a99bcx",
+            "fingers": "211340",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xhggjj",
+            "fingers": "021144",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xxcbce",
+            "fingers": "002134"
+        },
+        {
+            "frets": "mllxjj",
+            "fingers": "423011",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xhggxe",
+            "fingers": "042301"
+        },
+        {
+            "frets": "xxxjjj",
+            "fingers": "000111",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

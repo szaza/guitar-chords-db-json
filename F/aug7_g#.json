@@ -1,0 +1,36 @@
+{
+    "key": "F",
+    "suffix": "aug7/G#",
+    "positions": [
+        {
+            "frets": "4412x1",
+            "fingers": "341201",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "4x1221",
+            "fingers": "401231",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "xbbaab",
+            "fingers": "023114",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ggdexd",
+            "fingers": "341201",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "gxdeed",
+            "fingers": "401231",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "key": "B",
+    "suffix": "mmaj9",
+    "positions": [
+        {
+            "frets": "x20322",
+            "fingers": "010423"
+        },
+        {
+            "frets": "798779",
+            "fingers": "132114",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "jlkjjl",
+            "fingers": "132114",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xecfex",
+            "fingers": "021430"
+        }
+    ]
+}

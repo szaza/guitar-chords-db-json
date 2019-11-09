@@ -1,0 +1,28 @@
+{
+    "key": "E",
+    "suffix": "mmaj7bb5/F#",
+    "positions": [
+        {
+            "frets": "2010x0",
+            "fingers": "201000"
+        },
+        {
+            "frets": "2x2243",
+            "fingers": "101432",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "ecdcxc",
+            "fingers": "312101",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "exeegf",
+            "fingers": "101132",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

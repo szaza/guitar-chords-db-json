@@ -1,0 +1,28 @@
+{
+    "key": "F#",
+    "suffix": "maj7sus2sus4/A",
+    "positions": [
+        {
+            "frets": "x03102",
+            "fingers": "003102"
+        },
+        {
+            "frets": "544464",
+            "fingers": "211131",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "hgggig",
+            "fingers": "211131",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xcfdce",
+            "fingers": "014213",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

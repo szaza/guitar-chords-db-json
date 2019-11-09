@@ -1,0 +1,36 @@
+{
+    "key": "A",
+    "suffix": "7sus4/G#",
+    "positions": [
+        {
+            "frets": "4552xx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "4x5x35",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xbccaa",
+            "fingers": "023411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xx6785",
+            "fingers": "002341"
+        },
+        {
+            "frets": "ghhexx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "gxhxfh",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xxijkh",
+            "fingers": "002341"
+        }
+    ]
+}

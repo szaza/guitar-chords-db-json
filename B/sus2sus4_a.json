@@ -1,0 +1,36 @@
+{
+    "key": "B",
+    "suffix": "sus2sus4/A",
+    "positions": [
+        {
+            "frets": "544457",
+            "fingers": "211134",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xcbbcc",
+            "fingers": "021134",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "heegee",
+            "fingers": "411311",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "hgegee",
+            "fingers": "421311",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "hggghj",
+            "fingers": "211134",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "key": "B",
+    "suffix": "maj7b5/A",
+    "positions": [
+        {
+            "frets": "x01301",
+            "fingers": "001402"
+        },
+        {
+            "frets": "xcdfcd",
+            "fingers": "012413",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "m11/B",
+    "positions": [
+        {
+            "frets": "744644",
+            "fingers": "411311",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "764644",
+            "fingers": "421311",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "jggigg",
+            "fingers": "411311",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "jigigg",
+            "fingers": "421311",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

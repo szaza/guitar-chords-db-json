@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "maj13/D#",
+    "positions": [
+        {
+            "frets": "x69555",
+            "fingers": "023111",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "beaaac",
+            "fingers": "241113",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "b7axa7",
+            "fingers": "412031",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xilhhh",
+            "fingers": "023111",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

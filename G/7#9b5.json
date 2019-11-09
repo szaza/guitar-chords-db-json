@@ -1,0 +1,30 @@
+{
+    "key": "G",
+    "suffix": "7#9b5",
+    "positions": [
+        {
+            "frets": "343466",
+            "fingers": "121344",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "xa9ab9",
+            "fingers": "021341",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "feffex",
+            "fingers": "213410",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fgfgii",
+            "fingers": "121344",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

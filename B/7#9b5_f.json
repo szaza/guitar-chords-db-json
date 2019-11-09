@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "7#9b5/F",
+    "positions": [
+        {
+            "frets": "121231",
+            "fingers": "121341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x898aa",
+            "fingers": "012134",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "dedefd",
+            "fingers": "121341",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xklkmm",
+            "fingers": "012134",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

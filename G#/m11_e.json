@@ -1,0 +1,24 @@
+{
+    "key": "G#",
+    "suffix": "m11/E",
+    "positions": [
+        {
+            "frets": "021122",
+            "fingers": "021134",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "c99b99",
+            "fingers": "411311",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "cb9b99",
+            "fingers": "421311",
+            "barres": "9",
+            "capo": "true"
+        }
+    ]
+}

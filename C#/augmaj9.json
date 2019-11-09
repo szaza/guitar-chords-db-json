@@ -1,0 +1,24 @@
+{
+    "key": "C#",
+    "suffix": "augmaj9",
+    "positions": [
+        {
+            "frets": "98a8a8",
+            "fingers": "213141",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "98b8a8",
+            "fingers": "214131",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "lkmkmk",
+            "fingers": "213141",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

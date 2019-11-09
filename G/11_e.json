@@ -1,0 +1,28 @@
+{
+    "key": "G",
+    "suffix": "11/E",
+    "positions": [
+        {
+            "frets": "020011",
+            "fingers": "020011",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "023011",
+            "fingers": "023011",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "023013",
+            "fingers": "023014"
+        },
+        {
+            "frets": "ceccdd",
+            "fingers": "131124",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

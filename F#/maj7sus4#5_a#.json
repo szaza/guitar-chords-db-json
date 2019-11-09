@@ -1,0 +1,54 @@
+{
+    "key": "F#",
+    "suffix": "maj7sus4#5/A#",
+    "positions": [
+        {
+            "frets": "x14431",
+            "fingers": "013421",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "65446x",
+            "fingers": "321140",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "69976x",
+            "fingers": "134210",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "69x767",
+            "fingers": "140213",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xdggfd",
+            "fingers": "013421",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "ihggix",
+            "fingers": "321140",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "illjix",
+            "fingers": "134210",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "ilxjij",
+            "fingers": "140213",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

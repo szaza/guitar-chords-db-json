@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "mbb5/G",
+    "positions": [
+        {
+            "frets": "3x1142",
+            "fingers": "301142",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "3x414x",
+            "fingers": "203140"
+        },
+        {
+            "frets": "xaxb9b",
+            "fingers": "020314"
+        },
+        {
+            "frets": "fxddge",
+            "fingers": "301142",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "fxgdgx",
+            "fingers": "203140"
+        }
+    ]
+}

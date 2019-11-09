@@ -1,0 +1,26 @@
+{
+    "key": "F",
+    "suffix": "aug9",
+    "positions": [
+        {
+            "frets": "101021",
+            "fingers": "102043"
+        },
+        {
+            "frets": "101023",
+            "fingers": "102034"
+        },
+        {
+            "frets": "dcbcxb",
+            "fingers": "421301",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "dcdcex",
+            "fingers": "213140",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

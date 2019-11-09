@@ -1,0 +1,28 @@
+{
+    "key": "A#",
+    "suffix": "maj7sus4#5/E",
+    "positions": [
+        {
+            "frets": "0112x2",
+            "fingers": "011204",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "0013x2",
+            "fingers": "001302"
+        },
+        {
+            "frets": "ccdbbb",
+            "fingers": "234111",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "ccdfxe",
+            "fingers": "112403",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

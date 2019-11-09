@@ -1,0 +1,22 @@
+{
+    "key": "C",
+    "suffix": "9/F#",
+    "positions": [
+        {
+            "frets": "23x330",
+            "fingers": "120340"
+        },
+        {
+            "frets": "x9a9ba",
+            "fingers": "012143",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "efeffx",
+            "fingers": "121340",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

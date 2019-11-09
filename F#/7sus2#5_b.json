@@ -1,0 +1,42 @@
+{
+    "key": "F#",
+    "suffix": "7sus2#5/B",
+    "positions": [
+        {
+            "frets": "7747x4",
+            "fingers": "231401",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "754x54",
+            "fingers": "421031",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "7x4754",
+            "fingers": "301421",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "jjgjxg",
+            "fingers": "231401",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "jhgxhg",
+            "fingers": "421031",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "jxgjhg",
+            "fingers": "301421",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "key": "E",
+    "suffix": "m9/G",
+    "positions": [
+        {
+            "frets": "3x2032",
+            "fingers": "301042"
+        },
+        {
+            "frets": "feegfe",
+            "fingers": "211431",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fhegxe",
+            "fingers": "241301",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fhexhe",
+            "fingers": "231041",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fhexfe",
+            "fingers": "241031",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

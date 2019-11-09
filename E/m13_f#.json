@@ -1,0 +1,34 @@
+{
+    "key": "E",
+    "suffix": "m13/F#",
+    "positions": [
+        {
+            "frets": "220020",
+            "fingers": "120030"
+        },
+        {
+            "frets": "252223",
+            "fingers": "141112",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "eeccec",
+            "fingers": "231141",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eheeef",
+            "fingers": "141112",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "ehegef",
+            "fingers": "141312",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

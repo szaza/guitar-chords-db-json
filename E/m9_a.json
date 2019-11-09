@@ -1,0 +1,28 @@
+{
+    "key": "E",
+    "suffix": "m9/A",
+    "positions": [
+        {
+            "frets": "x02032",
+            "fingers": "001032"
+        },
+        {
+            "frets": "57577x",
+            "fingers": "121340",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "xcecfe",
+            "fingers": "012143",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "hjhjjx",
+            "fingers": "121340",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

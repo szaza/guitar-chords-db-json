@@ -1,0 +1,40 @@
+{
+    "key": "A#",
+    "suffix": "add9/F",
+    "positions": [
+        {
+            "frets": "110x11",
+            "fingers": "120034"
+        },
+        {
+            "frets": "11031x",
+            "fingers": "120430"
+        },
+        {
+            "frets": "1x0311",
+            "fingers": "100423"
+        },
+        {
+            "frets": "x887x8",
+            "fingers": "023104"
+        },
+        {
+            "frets": "ddxada",
+            "fingers": "230141",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ddcxdx",
+            "fingers": "231040"
+        },
+        {
+            "frets": "dxcfdx",
+            "fingers": "201430"
+        },
+        {
+            "frets": "xkkjxk",
+            "fingers": "023104"
+        }
+    ]
+}

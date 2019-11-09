@@ -1,0 +1,92 @@
+{
+    "key": "C",
+    "suffix": "aug/D",
+    "positions": [
+        {
+            "frets": "xx0110",
+            "fingers": "000120"
+        },
+        {
+            "frets": "x56558",
+            "fingers": "012114",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "x5x554",
+            "fingers": "020341"
+        },
+        {
+            "frets": "aba99x",
+            "fingers": "243110",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x525x4",
+            "fingers": "031402"
+        },
+        {
+            "frets": "xxcddc",
+            "fingers": "001342"
+        },
+        {
+            "frets": "abaxdc",
+            "fingers": "121043",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "abadxc",
+            "fingers": "121403",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "axa99c",
+            "fingers": "203114",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "axx998",
+            "fingers": "400231"
+        },
+        {
+            "frets": "axaddc",
+            "fingers": "101342",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "abx9x8",
+            "fingers": "340201"
+        },
+        {
+            "frets": "a7xx98",
+            "fingers": "410032"
+        },
+        {
+            "frets": "xhihhk",
+            "fingers": "012114",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xhxhhg",
+            "fingers": "020341"
+        },
+        {
+            "frets": "xhehxg",
+            "fingers": "031402"
+        },
+        {
+            "frets": "mxxllk",
+            "fingers": "400231"
+        },
+        {
+            "frets": "mjxxlk",
+            "fingers": "410032"
+        }
+    ]
+}

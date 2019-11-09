@@ -1,0 +1,24 @@
+{
+    "key": "A#",
+    "suffix": "7sus2#5/D#",
+    "positions": [
+        {
+            "frets": "bb8bx8",
+            "fingers": "231401",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "b98x98",
+            "fingers": "421031",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "bx8b98",
+            "fingers": "301421",
+            "barres": "8",
+            "capo": "true"
+        }
+    ]
+}

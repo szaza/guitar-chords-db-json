@@ -1,0 +1,108 @@
+{
+    "key": "G",
+    "suffix": "6/D",
+    "positions": [
+        {
+            "frets": "xx0000",
+            "fingers": "000000"
+        },
+        {
+            "frets": "x5545x",
+            "fingers": "023140"
+        },
+        {
+            "frets": "x55757",
+            "fingers": "011314",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "aacccc",
+            "fingers": "113334",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "a79787",
+            "fingers": "413121",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x5x453",
+            "fingers": "030241"
+        },
+        {
+            "frets": "aa9ccc",
+            "fingers": "231444",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "aa99cc",
+            "fingers": "231144",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "aa99xa",
+            "fingers": "231104",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "a7x987",
+            "fingers": "410321",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "ax998x",
+            "fingers": "402310"
+        },
+        {
+            "frets": "aax9x7",
+            "fingers": "340201"
+        },
+        {
+            "frets": "xhhjhj",
+            "fingers": "011314",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "mjljkj",
+            "fingers": "413121",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xhhghx",
+            "fingers": "023140"
+        },
+        {
+            "frets": "mmllxm",
+            "fingers": "231104",
+            "barres": "21",
+            "capo": "true"
+        },
+        {
+            "frets": "mjxlkj",
+            "fingers": "410321",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xhxghf",
+            "fingers": "030241"
+        },
+        {
+            "frets": "mxllkx",
+            "fingers": "402310"
+        },
+        {
+            "frets": "mmxlxj",
+            "fingers": "340201"
+        }
+    ]
+}

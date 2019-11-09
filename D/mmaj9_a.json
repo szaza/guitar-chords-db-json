@@ -1,0 +1,30 @@
+{
+    "key": "D",
+    "suffix": "mmaj9/A",
+    "positions": [
+        {
+            "frets": "58x759",
+            "fingers": "130214",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "55x969",
+            "fingers": "110324",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "hkxjhl",
+            "fingers": "130214",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "hhxlil",
+            "fingers": "110324",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

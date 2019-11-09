@@ -1,0 +1,56 @@
+{
+    "key": "E",
+    "suffix": "aug9/F#",
+    "positions": [
+        {
+            "frets": "230110",
+            "fingers": "340120"
+        },
+        {
+            "frets": "230130",
+            "fingers": "230140"
+        },
+        {
+            "frets": "x9a99a",
+            "fingers": "012113",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "excddc",
+            "fingers": "401231",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "efcdxc",
+            "fingers": "341201",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "efexfg",
+            "fingers": "121034",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "exehfg",
+            "fingers": "101423",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xlmllm",
+            "fingers": "012113",
+            "barres": "21",
+            "capo": "true"
+        },
+        {
+            "frets": "ehehxg",
+            "fingers": "131402",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

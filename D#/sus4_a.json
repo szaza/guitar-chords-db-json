@@ -1,0 +1,36 @@
+{
+    "key": "D#",
+    "suffix": "sus4/A",
+    "positions": [
+        {
+            "frets": "5663xx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "xcddbb",
+            "fingers": "023411",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "5x6x46",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xx7896",
+            "fingers": "002341"
+        },
+        {
+            "frets": "hiifxx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "hxixgi",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xxjkli",
+            "fingers": "002341"
+        }
+    ]
+}

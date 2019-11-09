@@ -1,0 +1,28 @@
+{
+    "key": "A",
+    "suffix": "add9/E",
+    "positions": [
+        {
+            "frets": "x776x7",
+            "fingers": "023104"
+        },
+        {
+            "frets": "ccx9c9",
+            "fingers": "230141",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ccbxcx",
+            "fingers": "231040"
+        },
+        {
+            "frets": "cxbecx",
+            "fingers": "201430"
+        },
+        {
+            "frets": "xjjixj",
+            "fingers": "023104"
+        }
+    ]
+}

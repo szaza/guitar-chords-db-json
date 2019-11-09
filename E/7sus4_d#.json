@@ -1,0 +1,34 @@
+{
+    "key": "E",
+    "suffix": "7sus4/D#",
+    "positions": [
+        {
+            "frets": "xx1230",
+            "fingers": "001230"
+        },
+        {
+            "frets": "x67755",
+            "fingers": "023411",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "bcc9xx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "xijjhh",
+            "fingers": "023411",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "bxcxac",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xxdefc",
+            "fingers": "002341"
+        }
+    ]
+}

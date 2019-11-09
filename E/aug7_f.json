@@ -1,0 +1,38 @@
+{
+    "key": "E",
+    "suffix": "aug7/F",
+    "positions": [
+        {
+            "frets": "130110",
+            "fingers": "140230"
+        },
+        {
+            "frets": "13213x",
+            "fingers": "132140",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "130130",
+            "fingers": "130240"
+        },
+        {
+            "frets": "dxcddc",
+            "fingers": "201341",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dfedfx",
+            "fingers": "132140",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "dfcdxc",
+            "fingers": "241301",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

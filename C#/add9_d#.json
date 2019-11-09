@@ -1,0 +1,94 @@
+{
+    "key": "C#",
+    "suffix": "add9/D#",
+    "positions": [
+        {
+            "frets": "xx1121",
+            "fingers": "001121",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x66669",
+            "fingers": "011114",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "bbxa99",
+            "fingers": "340211",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x6x664",
+            "fingers": "020341"
+        },
+        {
+            "frets": "bxba99",
+            "fingers": "304211",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x6366x",
+            "fingers": "021340"
+        },
+        {
+            "frets": "bbbaxx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "x636x4",
+            "fingers": "031402"
+        },
+        {
+            "frets": "xxdded",
+            "fingers": "001121",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "bxbaxb",
+            "fingers": "203104"
+        },
+        {
+            "frets": "b8baxx",
+            "fingers": "314200"
+        },
+        {
+            "frets": "xxx869",
+            "fingers": "000314"
+        },
+        {
+            "frets": "b8bxxb",
+            "fingers": "213004"
+        },
+        {
+            "frets": "xiiiil",
+            "fingers": "011114",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "bxbaxd",
+            "fingers": "203104"
+        },
+        {
+            "frets": "xixiig",
+            "fingers": "020341"
+        },
+        {
+            "frets": "xifiix",
+            "fingers": "021340"
+        },
+        {
+            "frets": "xifixg",
+            "fingers": "031402"
+        },
+        {
+            "frets": "xxxkil",
+            "fingers": "000314"
+        }
+    ]
+}

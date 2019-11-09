@@ -1,0 +1,90 @@
+{
+    "key": "D#",
+    "suffix": "sus2sus4/A#",
+    "positions": [
+        {
+            "frets": "x11141",
+            "fingers": "011141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "666866",
+            "fingers": "111311",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "x13141",
+            "fingers": "013141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x13144",
+            "fingers": "013144",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "686866",
+            "fingers": "131411",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "686896",
+            "fingers": "121341",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "66xx64",
+            "fingers": "230041"
+        },
+        {
+            "frets": "iiikii",
+            "fingers": "111311",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "ikikii",
+            "fingers": "131411",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xdddgd",
+            "fingers": "011141",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xdfdgd",
+            "fingers": "013141",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xdfdgg",
+            "fingers": "013144",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xx8a9b",
+            "fingers": "001324"
+        },
+        {
+            "frets": "ikikli",
+            "fingers": "121341",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "iixxig",
+            "fingers": "230041"
+        }
+    ]
+}

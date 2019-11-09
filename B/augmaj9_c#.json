@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "augmaj9/C#",
+    "positions": [
+        {
+            "frets": "x45446",
+            "fingers": "012113",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "969x86",
+            "fingers": "314021",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xghggi",
+            "fingers": "012113",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "lilxki",
+            "fingers": "314021",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

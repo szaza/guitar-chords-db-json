@@ -1,0 +1,42 @@
+{
+    "key": "F",
+    "suffix": "aug9/A",
+    "positions": [
+        {
+            "frets": "543x43",
+            "fingers": "421031",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "5636x3",
+            "fingers": "231401",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "5x3643",
+            "fingers": "301421",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "hgfxgf",
+            "fingers": "421031",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "hifixf",
+            "fingers": "231401",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "hxfigf",
+            "fingers": "301421",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

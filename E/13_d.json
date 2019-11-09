@@ -1,0 +1,30 @@
+{
+    "key": "E",
+    "suffix": "13/D",
+    "positions": [
+        {
+            "frets": "ab9999",
+            "fingers": "231111",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "abc999",
+            "fingers": "234111",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ab99c9",
+            "fingers": "231141",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ab99a9",
+            "fingers": "241131",
+            "barres": "9",
+            "capo": "true"
+        }
+    ]
+}

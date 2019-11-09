@@ -1,0 +1,90 @@
+{
+    "key": "F",
+    "suffix": "m7/B",
+    "positions": [
+        {
+            "frets": "x21111",
+            "fingers": "021111",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x21141",
+            "fingers": "021141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x23141",
+            "fingers": "023141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x23144",
+            "fingers": "023144",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "766868",
+            "fingers": "211314",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "78686x",
+            "fingers": "231410",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xedddd",
+            "fingers": "021111",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xx9a9b",
+            "fingers": "001324"
+        },
+        {
+            "frets": "jiikik",
+            "fingers": "211314",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xeddgd",
+            "fingers": "021141",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xefdgd",
+            "fingers": "023141",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xefdgg",
+            "fingers": "023144",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "76xx64",
+            "fingers": "420031"
+        },
+        {
+            "frets": "jkikix",
+            "fingers": "231410",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "jixxig",
+            "fingers": "420031"
+        }
+    ]
+}

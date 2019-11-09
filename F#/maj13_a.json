@@ -1,0 +1,44 @@
+{
+    "key": "F#",
+    "suffix": "maj13/A",
+    "positions": [
+        {
+            "frets": "x03342",
+            "fingers": "002341"
+        },
+        {
+            "frets": "x04341",
+            "fingers": "003241"
+        },
+        {
+            "frets": "514x41",
+            "fingers": "412031",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "584446",
+            "fingers": "241113",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xcfbbb",
+            "fingers": "023111",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "hkgggi",
+            "fingers": "241113",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "hdgxgd",
+            "fingers": "412031",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

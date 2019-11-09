@@ -1,0 +1,40 @@
+{
+    "key": "F",
+    "suffix": "augmaj9",
+    "positions": [
+        {
+            "frets": "102020",
+            "fingers": "102030"
+        },
+        {
+            "frets": "102223",
+            "fingers": "102243",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "103020",
+            "fingers": "103020"
+        },
+        {
+            "frets": "102023",
+            "fingers": "102034"
+        },
+        {
+            "frets": "102021",
+            "fingers": "103042"
+        },
+        {
+            "frets": "dcecec",
+            "fingers": "213141",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dcfcec",
+            "fingers": "214131",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

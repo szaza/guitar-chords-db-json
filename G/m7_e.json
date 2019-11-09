@@ -1,0 +1,74 @@
+{
+    "key": "G",
+    "suffix": "m7/E",
+    "positions": [
+        {
+            "frets": "013333",
+            "fingers": "013334",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "013033",
+            "fingers": "012034"
+        },
+        {
+            "frets": "010031",
+            "fingers": "010042"
+        },
+        {
+            "frets": "013031",
+            "fingers": "013042"
+        },
+        {
+            "frets": "cacaba",
+            "fingers": "314121",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cdffff",
+            "fingers": "124444",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "cdccfd",
+            "fingers": "121143",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cdfcfx",
+            "fingers": "123140",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cdfcxf",
+            "fingers": "123104",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "caxabd",
+            "fingers": "310124",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cdfcxd",
+            "fingers": "124103",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xxecbd",
+            "fingers": "004213"
+        },
+        {
+            "frets": "cxxcbd",
+            "fingers": "200314"
+        }
+    ]
+}

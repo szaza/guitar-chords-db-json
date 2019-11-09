@@ -1,0 +1,24 @@
+{
+    "key": "C",
+    "suffix": "aug9/E",
+    "positions": [
+        {
+            "frets": "cbaxba",
+            "fingers": "421031",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cdadxa",
+            "fingers": "231401",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cxadba",
+            "fingers": "301421",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

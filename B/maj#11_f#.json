@@ -1,0 +1,50 @@
+{
+    "key": "B",
+    "suffix": "maj#11/F#",
+    "positions": [
+        {
+            "frets": "2213x1",
+            "fingers": "231401",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "211441",
+            "fingers": "211341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "211x01",
+            "fingers": "412003"
+        },
+        {
+            "frets": "211421",
+            "fingers": "211431",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "2x1301",
+            "fingers": "301402"
+        },
+        {
+            "frets": "eddggd",
+            "fingers": "211341",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "eedfxd",
+            "fingers": "231401",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "eddged",
+            "fingers": "211431",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

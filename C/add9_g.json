@@ -1,0 +1,36 @@
+{
+    "key": "C",
+    "suffix": "add9/G",
+    "positions": [
+        {
+            "frets": "332030",
+            "fingers": "231040"
+        },
+        {
+            "frets": "3x253x",
+            "fingers": "201430"
+        },
+        {
+            "frets": "xaa9xa",
+            "fingers": "023104"
+        },
+        {
+            "frets": "ffxcfc",
+            "fingers": "230141",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "ffexfx",
+            "fingers": "231040"
+        },
+        {
+            "frets": "fxehfx",
+            "fingers": "201430"
+        },
+        {
+            "frets": "xmmlxm",
+            "fingers": "023104"
+        }
+    ]
+}

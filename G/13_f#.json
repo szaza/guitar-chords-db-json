@@ -1,0 +1,30 @@
+{
+    "key": "G",
+    "suffix": "13/F#",
+    "positions": [
+        {
+            "frets": "223000",
+            "fingers": "123000"
+        },
+        {
+            "frets": "223030",
+            "fingers": "123040"
+        },
+        {
+            "frets": "223010",
+            "fingers": "234010"
+        },
+        {
+            "frets": "eefccc",
+            "fingers": "234111",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eefehf",
+            "fingers": "112143",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

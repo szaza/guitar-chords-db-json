@@ -1,0 +1,18 @@
+{
+    "key": "F#",
+    "suffix": "mmaj11/G#",
+    "positions": [
+        {
+            "frets": "444465",
+            "fingers": "111132",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "ggggih",
+            "fingers": "111132",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

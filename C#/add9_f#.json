@@ -1,0 +1,32 @@
+{
+    "key": "C#",
+    "suffix": "add9/F#",
+    "positions": [
+        {
+            "frets": "24x141",
+            "fingers": "230141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "243x4x",
+            "fingers": "132040"
+        },
+        {
+            "frets": "x9ba9b",
+            "fingers": "013214",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "egxdgd",
+            "fingers": "230141",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "egfxgx",
+            "fingers": "132040"
+        }
+    ]
+}

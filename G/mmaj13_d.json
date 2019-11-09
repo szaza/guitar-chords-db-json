@@ -1,0 +1,30 @@
+{
+    "key": "G",
+    "suffix": "mmaj13/D",
+    "positions": [
+        {
+            "frets": "x54353",
+            "fingers": "032141",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "a98988",
+            "fingers": "421311",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "xhgfhf",
+            "fingers": "032141",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "mlklkk",
+            "fingers": "421311",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

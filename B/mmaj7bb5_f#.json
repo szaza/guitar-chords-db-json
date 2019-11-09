@@ -1,0 +1,42 @@
+{
+    "key": "B",
+    "suffix": "mmaj7bb5/F#",
+    "positions": [
+        {
+            "frets": "220300",
+            "fingers": "120300"
+        },
+        {
+            "frets": "220330",
+            "fingers": "120340"
+        },
+        {
+            "frets": "210300",
+            "fingers": "210300"
+        },
+        {
+            "frets": "x999ba",
+            "fingers": "011132",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "eeeffx",
+            "fingers": "111240",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "edcfcc",
+            "fingers": "321411",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eecfcc",
+            "fingers": "231411",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

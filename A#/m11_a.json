@@ -1,0 +1,24 @@
+{
+    "key": "A#",
+    "suffix": "m11/A",
+    "positions": [
+        {
+            "frets": "546x46",
+            "fingers": "213014",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xcbdbb",
+            "fingers": "021311",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "hgixgi",
+            "fingers": "213014",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

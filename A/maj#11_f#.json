@@ -1,0 +1,30 @@
+{
+    "key": "A",
+    "suffix": "maj#11/F#",
+    "positions": [
+        {
+            "frets": "ebbeeb",
+            "fingers": "211341",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "egeegg",
+            "fingers": "121134",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "ebbecb",
+            "fingers": "311421",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "ecbdxb",
+            "fingers": "421301",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

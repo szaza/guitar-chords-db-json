@@ -1,0 +1,38 @@
+{
+    "key": "B",
+    "suffix": "augmaj7/F",
+    "positions": [
+        {
+            "frets": "111003",
+            "fingers": "123004"
+        },
+        {
+            "frets": "1x1303",
+            "fingers": "102304"
+        },
+        {
+            "frets": "111443",
+            "fingers": "111342",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "dddccx",
+            "fingers": "234110",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dddggf",
+            "fingers": "111342",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "dexcbb",
+            "fingers": "340211",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

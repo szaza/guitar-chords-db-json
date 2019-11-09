@@ -1,0 +1,22 @@
+{
+    "key": "D",
+    "suffix": "maj11/E",
+    "positions": [
+        {
+            "frets": "000022",
+            "fingers": "000014"
+        },
+        {
+            "frets": "ccccee",
+            "fingers": "111134",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "c9ccx9",
+            "fingers": "213401",
+            "barres": "9",
+            "capo": "true"
+        }
+    ]
+}

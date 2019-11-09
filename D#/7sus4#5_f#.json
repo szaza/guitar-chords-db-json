@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "7sus4#5/F#",
+    "positions": [
+        {
+            "frets": "22112x",
+            "fingers": "231140",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "ebbdcb",
+            "fingers": "411321",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "eeddex",
+            "fingers": "231140",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "eebdxb",
+            "fingers": "341201",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

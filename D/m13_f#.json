@@ -1,0 +1,20 @@
+{
+    "key": "D",
+    "suffix": "m13/F#",
+    "positions": [
+        {
+            "frets": "230001",
+            "fingers": "230001"
+        },
+        {
+            "frets": "230201",
+            "fingers": "240301"
+        },
+        {
+            "frets": "efcccd",
+            "fingers": "341112",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

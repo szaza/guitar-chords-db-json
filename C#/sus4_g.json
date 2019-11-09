@@ -1,0 +1,36 @@
+{
+    "key": "C#",
+    "suffix": "sus4/G",
+    "positions": [
+        {
+            "frets": "3441xx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "3x4x24",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xabb99",
+            "fingers": "023411",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xx5674",
+            "fingers": "002341"
+        },
+        {
+            "frets": "fggdxx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "fxgxeg",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xxhijg",
+            "fingers": "002341"
+        }
+    ]
+}

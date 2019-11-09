@@ -1,0 +1,34 @@
+{
+    "key": "A",
+    "suffix": "13/F",
+    "positions": [
+        {
+            "frets": "102022",
+            "fingers": "102034"
+        },
+        {
+            "frets": "x85675",
+            "fingers": "041231",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "dabbaa",
+            "fingers": "412311",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dcxcee",
+            "fingers": "210134",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xkhijh",
+            "fingers": "041231",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

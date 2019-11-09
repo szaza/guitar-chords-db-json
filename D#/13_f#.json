@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "13/F#",
+    "positions": [
+        {
+            "frets": "241113",
+            "fingers": "241113",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x9b888",
+            "fingers": "024111",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "exbcdb",
+            "fingers": "401231",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "egdddf",
+            "fingers": "241113",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "key": "C#",
+    "suffix": "maj7b5/D#",
+    "positions": [
+        {
+            "frets": "b8ba88",
+            "fingers": "314211",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "babadd",
+            "fingers": "213144",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bxbcdd",
+            "fingers": "101234",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "b8ax89",
+            "fingers": "413012",
+            "barres": "8",
+            "capo": "true"
+        }
+    ]
+}

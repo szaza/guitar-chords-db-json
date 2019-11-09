@@ -1,0 +1,40 @@
+{
+    "key": "D",
+    "suffix": "m6add9/F",
+    "positions": [
+        {
+            "frets": "100200",
+            "fingers": "100200"
+        },
+        {
+            "frets": "120200",
+            "fingers": "120300"
+        },
+        {
+            "frets": "120230",
+            "fingers": "120340"
+        },
+        {
+            "frets": "123x30",
+            "fingers": "123040"
+        },
+        {
+            "frets": "dccecc",
+            "fingers": "211311",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dececc",
+            "fingers": "231411",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "decxfc",
+            "fingers": "231041",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

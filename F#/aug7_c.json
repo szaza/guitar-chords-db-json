@@ -1,0 +1,36 @@
+{
+    "key": "F#",
+    "suffix": "aug7/C",
+    "positions": [
+        {
+            "frets": "87877a",
+            "fingers": "213114",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "8989xa",
+            "fingers": "121304",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "xfeffe",
+            "fingers": "021341",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "kjkjjm",
+            "fingers": "213114",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "klklxm",
+            "fingers": "121304",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "key": "D#",
+    "suffix": "majb5/A#",
+    "positions": [
+        {
+            "frets": "x11243",
+            "fingers": "011243",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "66788x",
+            "fingers": "112340",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "6658x5",
+            "fingers": "231401",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "665x85",
+            "fingers": "231041",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "6x5885",
+            "fingers": "201341",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "6x5x45",
+            "fingers": "402013"
+        },
+        {
+            "frets": "xx8885",
+            "fingers": "002341"
+        },
+        {
+            "frets": "xddegf",
+            "fingers": "011243",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "iijkkx",
+            "fingers": "112340",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xdxcab",
+            "fingers": "040312"
+        },
+        {
+            "frets": "xddcax",
+            "fingers": "034210"
+        },
+        {
+            "frets": "iihkxh",
+            "fingers": "231401",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "iihxkh",
+            "fingers": "231041",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ixhkkh",
+            "fingers": "201341",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ixhxgh",
+            "fingers": "402013"
+        },
+        {
+            "frets": "xxkkkh",
+            "fingers": "002341"
+        }
+    ]
+}

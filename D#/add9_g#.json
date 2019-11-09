@@ -1,0 +1,32 @@
+{
+    "key": "D#",
+    "suffix": "add9/G#",
+    "positions": [
+        {
+            "frets": "46x363",
+            "fingers": "230141",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "465x6x",
+            "fingers": "132040"
+        },
+        {
+            "frets": "xbdcbd",
+            "fingers": "013214",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "gixfif",
+            "fingers": "230141",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "gihxix",
+            "fingers": "132040"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "key": "G",
+    "suffix": "maj11/E",
+    "positions": [
+        {
+            "frets": "020012",
+            "fingers": "020013"
+        },
+        {
+            "frets": "ceccde",
+            "fingers": "131124",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

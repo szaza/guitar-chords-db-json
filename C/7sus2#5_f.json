@@ -1,0 +1,28 @@
+{
+    "key": "C",
+    "suffix": "7sus2#5/F",
+    "positions": [
+        {
+            "frets": "11011x",
+            "fingers": "120340"
+        },
+        {
+            "frets": "ddadxa",
+            "fingers": "231401",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dbaxba",
+            "fingers": "421031",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dxadba",
+            "fingers": "301421",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

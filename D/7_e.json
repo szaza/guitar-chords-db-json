@@ -1,0 +1,90 @@
+{
+    "key": "D",
+    "suffix": "7/E",
+    "positions": [
+        {
+            "frets": "000212",
+            "fingers": "000213"
+        },
+        {
+            "frets": "030232",
+            "fingers": "030142"
+        },
+        {
+            "frets": "030212",
+            "fingers": "040213"
+        },
+        {
+            "frets": "x77778",
+            "fingers": "011112",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xx2532",
+            "fingers": "001432"
+        },
+        {
+            "frets": "ccabaa",
+            "fingers": "341211",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cccede",
+            "fingers": "111324",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "x7a778",
+            "fingers": "014112",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x7a77a",
+            "fingers": "012113",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "cxabda",
+            "fingers": "301241",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xjjjjk",
+            "fingers": "011112",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "cfcxde",
+            "fingers": "141023",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cxcbdx",
+            "fingers": "203140"
+        },
+        {
+            "frets": "xxehfe",
+            "fingers": "001432"
+        },
+        {
+            "frets": "xjmjjk",
+            "fingers": "014112",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xjmjjm",
+            "fingers": "012113",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

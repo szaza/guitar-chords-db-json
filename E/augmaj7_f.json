@@ -1,0 +1,32 @@
+{
+    "key": "E",
+    "suffix": "augmaj7/F",
+    "positions": [
+        {
+            "frets": "1x1110",
+            "fingers": "102340"
+        },
+        {
+            "frets": "132144",
+            "fingers": "132144",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "1311x0",
+            "fingers": "142300"
+        },
+        {
+            "frets": "dfedgg",
+            "fingers": "132144",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "dbexdb",
+            "fingers": "214031",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

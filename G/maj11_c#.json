@@ -1,0 +1,24 @@
+{
+    "key": "G",
+    "suffix": "maj11/C#",
+    "positions": [
+        {
+            "frets": "999x88",
+            "fingers": "234011",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "9x9b88",
+            "fingers": "203411",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "lllxkk",
+            "fingers": "234011",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

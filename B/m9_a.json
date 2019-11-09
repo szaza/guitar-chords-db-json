@@ -1,0 +1,40 @@
+{
+    "key": "B",
+    "suffix": "m9/A",
+    "positions": [
+        {
+            "frets": "55x677",
+            "fingers": "110234",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "5576x7",
+            "fingers": "113204",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "hhxijj",
+            "fingers": "110234",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "hhxgee",
+            "fingers": "340211",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xccxc9",
+            "fingers": "023041"
+        },
+        {
+            "frets": "hhjixj",
+            "fingers": "113204",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

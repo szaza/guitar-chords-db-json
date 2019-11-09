@@ -1,0 +1,34 @@
+{
+    "key": "F",
+    "suffix": "mmaj13/C",
+    "positions": [
+        {
+            "frets": "x32131",
+            "fingers": "032141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x33130",
+            "fingers": "023140"
+        },
+        {
+            "frets": "876766",
+            "fingers": "421311",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xfedfd",
+            "fingers": "032141",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "kjijii",
+            "fingers": "421311",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

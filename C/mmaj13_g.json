@@ -1,0 +1,34 @@
+{
+    "key": "C",
+    "suffix": "mmaj13/G",
+    "positions": [
+        {
+            "frets": "321211",
+            "fingers": "421311",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "33120x",
+            "fingers": "341200"
+        },
+        {
+            "frets": "xa98a8",
+            "fingers": "032141",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "fededd",
+            "fingers": "421311",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xmlkmk",
+            "fingers": "032141",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

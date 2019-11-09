@@ -1,0 +1,24 @@
+{
+    "key": "C",
+    "suffix": "m11/D",
+    "positions": [
+        {
+            "frets": "aaaabb",
+            "fingers": "111124",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "addada",
+            "fingers": "123141",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "adaadb",
+            "fingers": "131142",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

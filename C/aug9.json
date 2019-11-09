@@ -1,0 +1,36 @@
+{
+    "key": "C",
+    "suffix": "aug9",
+    "positions": [
+        {
+            "frets": "8767x6",
+            "fingers": "421301",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "87879x",
+            "fingers": "213140",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "kjijxi",
+            "fingers": "421301",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "kjkjlx",
+            "fingers": "213140",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "kxkllm",
+            "fingers": "101243",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

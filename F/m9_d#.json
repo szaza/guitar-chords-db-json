@@ -1,0 +1,32 @@
+{
+    "key": "F",
+    "suffix": "m9/D#",
+    "positions": [
+        {
+            "frets": "bbxcdd",
+            "fingers": "110234",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "bbxa88",
+            "fingers": "340211",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "x66x63",
+            "fingers": "023041"
+        },
+        {
+            "frets": "bbdcxd",
+            "fingers": "113204",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xiixif",
+            "fingers": "023041"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "key": "G",
+    "suffix": "sus2sus4/F",
+    "positions": [
+        {
+            "frets": "100013",
+            "fingers": "100024"
+        },
+        {
+            "frets": "100213",
+            "fingers": "100324"
+        },
+        {
+            "frets": "1302x3",
+            "fingers": "130204"
+        },
+        {
+            "frets": "x87788",
+            "fingers": "021134",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "daacaa",
+            "fingers": "411311",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dcacaa",
+            "fingers": "421311",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dcccdf",
+            "fingers": "211134",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xkjjkk",
+            "fingers": "021134",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

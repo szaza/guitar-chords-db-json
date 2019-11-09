@@ -1,0 +1,30 @@
+{
+    "key": "D",
+    "suffix": "7#9b5/C",
+    "positions": [
+        {
+            "frets": "x34131",
+            "fingers": "024131",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "89676x",
+            "fingers": "341210",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xfgdfd",
+            "fingers": "024131",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "klijix",
+            "fingers": "341210",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

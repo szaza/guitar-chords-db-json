@@ -1,0 +1,40 @@
+{
+    "key": "E",
+    "suffix": "maj7sus4/C#",
+    "positions": [
+        {
+            "frets": "9778a7",
+            "fingers": "311241",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "9c99ab",
+            "fingers": "141123",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "9c99cb",
+            "fingers": "131142",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xxb9ab",
+            "fingers": "003124"
+        },
+        {
+            "frets": "xgeegh",
+            "fingers": "021134",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "ljjkmj",
+            "fingers": "311241",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

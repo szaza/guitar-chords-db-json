@@ -1,0 +1,90 @@
+{
+    "key": "A",
+    "suffix": "maj7sus4#5/F",
+    "positions": [
+        {
+            "frets": "100131",
+            "fingers": "100243"
+        },
+        {
+            "frets": "10313x",
+            "fingers": "103240"
+        },
+        {
+            "frets": "xx3234",
+            "fingers": "002134"
+        },
+        {
+            "frets": "1xx234",
+            "fingers": "100234"
+        },
+        {
+            "frets": "dbcaaa",
+            "fingers": "423111",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "x8779a",
+            "fingers": "021134",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x867x5",
+            "fingers": "042301"
+        },
+        {
+            "frets": "dccdxd",
+            "fingers": "211304",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dcxdaa",
+            "fingers": "320411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dxcdaa",
+            "fingers": "302411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dbxdaa",
+            "fingers": "320411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dccdfx",
+            "fingers": "211340",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dbcexx",
+            "fingers": "312400"
+        },
+        {
+            "frets": "xxfefg",
+            "fingers": "002134"
+        },
+        {
+            "frets": "dxxefg",
+            "fingers": "100234"
+        },
+        {
+            "frets": "xkjjlm",
+            "fingers": "021134",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xkijxh",
+            "fingers": "042301"
+        }
+    ]
+}

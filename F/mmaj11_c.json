@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "mmaj11/C",
+    "positions": [
+        {
+            "frets": "876966",
+            "fingers": "321411",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "886966",
+            "fingers": "231411",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "kjilii",
+            "fingers": "321411",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "kkilii",
+            "fingers": "231411",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

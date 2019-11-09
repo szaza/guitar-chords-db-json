@@ -1,0 +1,24 @@
+{
+    "key": "C#",
+    "suffix": "maj7sus2/A",
+    "positions": [
+        {
+            "frets": "546544",
+            "fingers": "214311",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xcbddb",
+            "fingers": "021341",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "hgihgg",
+            "fingers": "214311",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

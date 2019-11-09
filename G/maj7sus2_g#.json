@@ -1,0 +1,18 @@
+{
+    "key": "G",
+    "suffix": "maj7sus2/G#",
+    "positions": [
+        {
+            "frets": "ghhexe",
+            "fingers": "234101",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "gxhefe",
+            "fingers": "304121",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

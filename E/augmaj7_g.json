@@ -1,0 +1,32 @@
+{
+    "key": "E",
+    "suffix": "augmaj7/G",
+    "positions": [
+        {
+            "frets": "3311x0",
+            "fingers": "341200"
+        },
+        {
+            "frets": "3x1110",
+            "fingers": "401230"
+        },
+        {
+            "frets": "332x44",
+            "fingers": "231044",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xaa99b",
+            "fingers": "023114",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ffexgg",
+            "fingers": "231044",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

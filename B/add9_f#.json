@@ -1,0 +1,36 @@
+{
+    "key": "B",
+    "suffix": "add9/F#",
+    "positions": [
+        {
+            "frets": "221x2x",
+            "fingers": "231040"
+        },
+        {
+            "frets": "2x142x",
+            "fingers": "201430"
+        },
+        {
+            "frets": "x998x9",
+            "fingers": "023104"
+        },
+        {
+            "frets": "eexbeb",
+            "fingers": "230141",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "eedxex",
+            "fingers": "231040"
+        },
+        {
+            "frets": "exdgex",
+            "fingers": "201430"
+        },
+        {
+            "frets": "xllkxl",
+            "fingers": "023104"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "key": "G",
+    "suffix": "maj7/F#",
+    "positions": [
+        {
+            "frets": "220002",
+            "fingers": "120003"
+        },
+        {
+            "frets": "220033",
+            "fingers": "120034"
+        },
+        {
+            "frets": "220003",
+            "fingers": "120003"
+        },
+        {
+            "frets": "220032",
+            "fingers": "120043"
+        },
+        {
+            "frets": "2554x2",
+            "fingers": "144241",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "x99787",
+            "fingers": "034121",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "eeccce",
+            "fingers": "231114",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eeccff",
+            "fingers": "231144",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eecccf",
+            "fingers": "231114",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eehgfe",
+            "fingers": "114321",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "x99cca",
+            "fingers": "011342",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x99x8a",
+            "fingers": "023014"
+        },
+        {
+            "frets": "x9cccx",
+            "fingers": "012340"
+        },
+        {
+            "frets": "x99b8x",
+            "fingers": "023410"
+        },
+        {
+            "frets": "ehhgxe",
+            "fingers": "134201",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xlljkj",
+            "fingers": "034121",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xllxkm",
+            "fingers": "023014"
+        }
+    ]
+}

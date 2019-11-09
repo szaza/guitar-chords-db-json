@@ -1,0 +1,26 @@
+{
+    "key": "G",
+    "suffix": "9/F",
+    "positions": [
+        {
+            "frets": "120233",
+            "fingers": "120344",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "120203",
+            "fingers": "120304"
+        },
+        {
+            "frets": "1x3203",
+            "fingers": "103204"
+        },
+        {
+            "frets": "dxcecf",
+            "fingers": "201314",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

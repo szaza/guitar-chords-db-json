@@ -1,0 +1,24 @@
+{
+    "key": "A",
+    "suffix": "augmaj7/G",
+    "positions": [
+        {
+            "frets": "303121",
+            "fingers": "304121",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "xabdad",
+            "fingers": "012314",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "fxfeeg",
+            "fingers": "203114",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

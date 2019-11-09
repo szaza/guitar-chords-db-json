@@ -1,0 +1,94 @@
+{
+    "key": "D",
+    "suffix": "dim/G#",
+    "positions": [
+        {
+            "frets": "456x64",
+            "fingers": "123041",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "4x3131",
+            "fingers": "402131",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "45x764",
+            "fingers": "120431",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "4x6764",
+            "fingers": "102431",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "453x34",
+            "fingers": "241013",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "453x6x",
+            "fingers": "231040"
+        },
+        {
+            "frets": "xbcaxa",
+            "fingers": "034102"
+        },
+        {
+            "frets": "xbcdxd",
+            "fingers": "012304"
+        },
+        {
+            "frets": "xbca9x",
+            "fingers": "034210"
+        },
+        {
+            "frets": "xbxa9a",
+            "fingers": "040213"
+        },
+        {
+            "frets": "ghixig",
+            "fingers": "123041",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "gxfdfd",
+            "fingers": "402131",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xbcaxd",
+            "fingers": "023104"
+        },
+        {
+            "frets": "ghxjig",
+            "fingers": "120431",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "gxijig",
+            "fingers": "102431",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "ghfxfg",
+            "fingers": "241013",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "ghfxix",
+            "fingers": "231040"
+        }
+    ]
+}

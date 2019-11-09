@@ -1,0 +1,24 @@
+{
+    "key": "G",
+    "suffix": "maj9/G#",
+    "positions": [
+        {
+            "frets": "4x5475",
+            "fingers": "102143",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "gehefe",
+            "fingers": "314121",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "gxhgjh",
+            "fingers": "102143",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

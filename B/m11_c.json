@@ -1,0 +1,28 @@
+{
+    "key": "B",
+    "suffix": "m11/C",
+    "positions": [
+        {
+            "frets": "x30200",
+            "fingers": "020100"
+        },
+        {
+            "frets": "857x57",
+            "fingers": "412013",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "xfcecc",
+            "fingers": "041311",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "khjxhj",
+            "fingers": "412013",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

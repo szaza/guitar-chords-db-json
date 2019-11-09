@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "7#9/G",
+    "positions": [
+        {
+            "frets": "301111",
+            "fingers": "301111",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "3x3244",
+            "fingers": "203144",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xaddad",
+            "fingers": "012314",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "fxfegg",
+            "fingers": "203144",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

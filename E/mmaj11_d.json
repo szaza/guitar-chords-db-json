@@ -1,0 +1,30 @@
+{
+    "key": "E",
+    "suffix": "mmaj11/D",
+    "positions": [
+        {
+            "frets": "x55855",
+            "fingers": "011411",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "aadbac",
+            "fingers": "114213",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "aadcac",
+            "fingers": "114213",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xhhkhh",
+            "fingers": "011411",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

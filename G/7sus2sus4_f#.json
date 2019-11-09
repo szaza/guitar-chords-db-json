@@ -1,0 +1,34 @@
+{
+    "key": "G",
+    "suffix": "7sus2sus4/F#",
+    "positions": [
+        {
+            "frets": "200011",
+            "fingers": "200011",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "203011",
+            "fingers": "203011",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "203013",
+            "fingers": "203014"
+        },
+        {
+            "frets": "ecccdd",
+            "fingers": "311124",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "effexf",
+            "fingers": "123104",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

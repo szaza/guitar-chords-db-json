@@ -1,0 +1,70 @@
+{
+    "key": "E",
+    "suffix": "maj13",
+    "positions": [
+        {
+            "frets": "021122",
+            "fingers": "021134",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "021120",
+            "fingers": "031240"
+        },
+        {
+            "frets": "x76899",
+            "fingers": "021344",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "cbdeee",
+            "fingers": "213444",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "cbdbeb",
+            "fingers": "213141",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "cbdbee",
+            "fingers": "213144",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "cbebeb",
+            "fingers": "213141",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "cxddec",
+            "fingers": "102341",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cbxdeb",
+            "fingers": "210341",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "cbxeeb",
+            "fingers": "210341",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xjikll",
+            "fingers": "021344",
+            "barres": "21",
+            "capo": "true"
+        }
+    ]
+}

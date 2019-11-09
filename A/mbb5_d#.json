@@ -1,0 +1,34 @@
+{
+    "key": "A",
+    "suffix": "mbb5/D#",
+    "positions": [
+        {
+            "frets": "x677x8",
+            "fingers": "012304"
+        },
+        {
+            "frets": "bcaxaa",
+            "fingers": "231011",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "x6x535",
+            "fingers": "040213"
+        },
+        {
+            "frets": "bcaxda",
+            "fingers": "231041",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xijjxk",
+            "fingers": "012304"
+        },
+        {
+            "frets": "xixhfh",
+            "fingers": "040213"
+        }
+    ]
+}

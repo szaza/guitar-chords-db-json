@@ -1,0 +1,34 @@
+{
+    "key": "D#",
+    "suffix": "add9/C",
+    "positions": [
+        {
+            "frets": "x310x1",
+            "fingers": "041002"
+        },
+        {
+            "frets": "8a8abb",
+            "fingers": "121344",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "8a8a8b",
+            "fingers": "121314",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "865x6x",
+            "fingers": "421030"
+        },
+        {
+            "frets": "xfdcxd",
+            "fingers": "042103"
+        },
+        {
+            "frets": "kihxix",
+            "fingers": "421030"
+        }
+    ]
+}

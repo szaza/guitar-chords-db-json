@@ -1,0 +1,90 @@
+{
+    "key": "B",
+    "suffix": "m7/F",
+    "positions": [
+        {
+            "frets": "100202",
+            "fingers": "100203"
+        },
+        {
+            "frets": "120202",
+            "fingers": "120304"
+        },
+        {
+            "frets": "12023x",
+            "fingers": "120340"
+        },
+        {
+            "frets": "x87777",
+            "fingers": "021111",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xx3435",
+            "fingers": "001324"
+        },
+        {
+            "frets": "x877a7",
+            "fingers": "021141",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x897a7",
+            "fingers": "023141",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x897aa",
+            "fingers": "023144",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dccece",
+            "fingers": "211314",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dececx",
+            "fingers": "231410",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xkjjjj",
+            "fingers": "021111",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xxfgfh",
+            "fingers": "001324"
+        },
+        {
+            "frets": "xkjjmj",
+            "fingers": "021141",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xkljmj",
+            "fingers": "023141",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xkljmm",
+            "fingers": "023144",
+            "barres": "22",
+            "capo": "true"
+        },
+        {
+            "frets": "dcxxca",
+            "fingers": "420031"
+        }
+    ]
+}

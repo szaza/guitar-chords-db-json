@@ -1,0 +1,38 @@
+{
+    "key": "D#",
+    "suffix": "m9/E",
+    "positions": [
+        {
+            "frets": "043x42",
+            "fingers": "032041"
+        },
+        {
+            "frets": "044x41",
+            "fingers": "023041"
+        },
+        {
+            "frets": "x7ba7b",
+            "fingers": "013214",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "c9dax9",
+            "fingers": "314201",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "cxdaee",
+            "fingers": "203144",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "cxfbeb",
+            "fingers": "204131",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

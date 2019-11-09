@@ -1,0 +1,26 @@
+{
+    "key": "A",
+    "suffix": "mmaj9/E",
+    "positions": [
+        {
+            "frets": "032204",
+            "fingers": "031204"
+        },
+        {
+            "frets": "002414",
+            "fingers": "002314"
+        },
+        {
+            "frets": "cfxecg",
+            "fingers": "130214",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "ccxgdg",
+            "fingers": "110324",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

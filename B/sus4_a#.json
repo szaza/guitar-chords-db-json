@@ -1,0 +1,90 @@
+{
+    "key": "B",
+    "suffix": "sus4/A#",
+    "positions": [
+        {
+            "frets": "x12x02",
+            "fingers": "012003"
+        },
+        {
+            "frets": "x124x2",
+            "fingers": "012403"
+        },
+        {
+            "frets": "67445x",
+            "fingers": "341120",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "67447x",
+            "fingers": "231140",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xx8977",
+            "fingers": "002311",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "6744x7",
+            "fingers": "231104",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "6x4457",
+            "fingers": "301124",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "6999xx",
+            "fingers": "123400"
+        },
+        {
+            "frets": "ijgghx",
+            "fingers": "341120",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xdegxe",
+            "fingers": "012403"
+        },
+        {
+            "frets": "xdexce",
+            "fingers": "023014"
+        },
+        {
+            "frets": "ijggjx",
+            "fingers": "231140",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "ijggxj",
+            "fingers": "231104",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "ixgghj",
+            "fingers": "301124",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xxkljj",
+            "fingers": "002311",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "illlxx",
+            "fingers": "123400"
+        }
+    ]
+}

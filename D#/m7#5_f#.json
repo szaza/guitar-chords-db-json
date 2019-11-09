@@ -1,0 +1,82 @@
+{
+    "key": "D#",
+    "suffix": "m7#5/F#",
+    "positions": [
+        {
+            "frets": "24444x",
+            "fingers": "133340",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "221x2x",
+            "fingers": "231040"
+        },
+        {
+            "frets": "24x442",
+            "fingers": "140341",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "2414xx",
+            "fingers": "231400"
+        },
+        {
+            "frets": "xx4647",
+            "fingers": "001324"
+        },
+        {
+            "frets": "2x142x",
+            "fingers": "201430"
+        },
+        {
+            "frets": "eebbcb",
+            "fingers": "341121",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "x998x9",
+            "fingers": "023104"
+        },
+        {
+            "frets": "eggggx",
+            "fingers": "133340",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "eebbeb",
+            "fingers": "231141",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "egxgge",
+            "fingers": "120341",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "eedxex",
+            "fingers": "231040"
+        },
+        {
+            "frets": "egdgxx",
+            "fingers": "231400"
+        },
+        {
+            "frets": "xxgigj",
+            "fingers": "001324"
+        },
+        {
+            "frets": "exdgex",
+            "fingers": "201430"
+        },
+        {
+            "frets": "xllkxl",
+            "fingers": "023104"
+        }
+    ]
+}

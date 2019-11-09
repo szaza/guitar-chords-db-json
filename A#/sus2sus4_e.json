@@ -1,0 +1,18 @@
+{
+    "key": "A#",
+    "suffix": "sus2sus4/E",
+    "positions": [
+        {
+            "frets": "011311",
+            "fingers": "011311",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "031311",
+            "fingers": "031411",
+            "barres": "1",
+            "capo": "true"
+        }
+    ]
+}

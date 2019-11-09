@@ -1,0 +1,28 @@
+{
+    "key": "C#",
+    "suffix": "mmaj13/F#",
+    "positions": [
+        {
+            "frets": "23x320",
+            "fingers": "130420"
+        },
+        {
+            "frets": "x9a9b9",
+            "fingers": "012131",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "efefee",
+            "fingers": "121311",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "efefeg",
+            "fingers": "121314",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

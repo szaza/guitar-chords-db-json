@@ -1,0 +1,36 @@
+{
+    "key": "F#",
+    "suffix": "maj7/E",
+    "positions": [
+        {
+            "frets": "x78a79",
+            "fingers": "012413",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "cdbbbd",
+            "fingers": "231114",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "c9xab9",
+            "fingers": "410231",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xxebbd",
+            "fingers": "004113",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xjkmjl",
+            "fingers": "012413",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "key": "B",
+    "suffix": "mmaj13/F#",
+    "positions": [
+        {
+            "frets": "210100",
+            "fingers": "310200"
+        },
+        {
+            "frets": "210102",
+            "fingers": "310204"
+        },
+        {
+            "frets": "x98797",
+            "fingers": "032141",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "edcdcc",
+            "fingers": "421311",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xlkjlj",
+            "fingers": "032141",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

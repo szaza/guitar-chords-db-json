@@ -1,0 +1,42 @@
+{
+    "key": "G",
+    "suffix": "7sus2#5/A#",
+    "positions": [
+        {
+            "frets": "665x65",
+            "fingers": "231041",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "6858x5",
+            "fingers": "231401",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "6x5865",
+            "fingers": "201431",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "iihxih",
+            "fingers": "231041",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ikhkxh",
+            "fingers": "231401",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ixhkih",
+            "fingers": "201431",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

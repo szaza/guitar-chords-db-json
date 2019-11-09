@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "6b5/G#",
+    "positions": [
+        {
+            "frets": "434555",
+            "fingers": "213444",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "xbabac",
+            "fingers": "021314",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "gfghhh",
+            "fingers": "213444",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "gfeehe",
+            "fingers": "321141",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

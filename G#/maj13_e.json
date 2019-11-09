@@ -1,0 +1,30 @@
+{
+    "key": "G#",
+    "suffix": "maj13/E",
+    "positions": [
+        {
+            "frets": "033113",
+            "fingers": "023114",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "cadddd",
+            "fingers": "314444",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "caaddd",
+            "fingers": "311444",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cbxcdd",
+            "fingers": "210344",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

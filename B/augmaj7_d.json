@@ -1,0 +1,24 @@
+{
+    "key": "B",
+    "suffix": "augmaj7/D",
+    "positions": [
+        {
+            "frets": "x55446",
+            "fingers": "023114",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "aa9xbb",
+            "fingers": "231044",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xhhggi",
+            "fingers": "023114",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

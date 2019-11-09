@@ -1,0 +1,34 @@
+{
+    "key": "D",
+    "suffix": "mmaj7#5/E",
+    "positions": [
+        {
+            "frets": "010321",
+            "fingers": "010432"
+        },
+        {
+            "frets": "cdbaxa",
+            "fingers": "342101",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cxbaba",
+            "fingers": "402131",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cdcxed",
+            "fingers": "121043",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cxcfed",
+            "fingers": "101432",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

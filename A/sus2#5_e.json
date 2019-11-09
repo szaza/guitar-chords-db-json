@@ -1,0 +1,92 @@
+{
+    "key": "A",
+    "suffix": "sus2#5/E",
+    "positions": [
+        {
+            "frets": "003201",
+            "fingers": "003201"
+        },
+        {
+            "frets": "xx2201",
+            "fingers": "002301"
+        },
+        {
+            "frets": "023201",
+            "fingers": "024301"
+        },
+        {
+            "frets": "x77aa7",
+            "fingers": "011231",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x79aa7",
+            "fingers": "012341",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x77x67",
+            "fingers": "023014"
+        },
+        {
+            "frets": "x7x465",
+            "fingers": "040132"
+        },
+        {
+            "frets": "x7746x",
+            "fingers": "034120"
+        },
+        {
+            "frets": "ccfecd",
+            "fingers": "114312",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cefecx",
+            "fingers": "124310",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cexecd",
+            "fingers": "130412",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xxeecd",
+            "fingers": "003412"
+        },
+        {
+            "frets": "ccxacx",
+            "fingers": "230140"
+        },
+        {
+            "frets": "xjjmmj",
+            "fingers": "011231",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xjlmmj",
+            "fingers": "012341",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xjjxij",
+            "fingers": "023014"
+        },
+        {
+            "frets": "xjxgih",
+            "fingers": "040132"
+        },
+        {
+            "frets": "xjjgix",
+            "fingers": "034120"
+        }
+    ]
+}

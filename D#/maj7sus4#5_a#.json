@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "maj7sus4#5/A#",
+    "positions": [
+        {
+            "frets": "656444",
+            "fingers": "324111",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "x11434",
+            "fingers": "011324",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "ihiggg",
+            "fingers": "324111",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xddgfg",
+            "fingers": "011324",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

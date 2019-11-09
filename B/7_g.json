@@ -1,0 +1,90 @@
+{
+    "key": "B",
+    "suffix": "7/G",
+    "positions": [
+        {
+            "frets": "301202",
+            "fingers": "401203"
+        },
+        {
+            "frets": "32120x",
+            "fingers": "421300"
+        },
+        {
+            "frets": "xx5445",
+            "fingers": "002113",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xa7877",
+            "fingers": "041211",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "fegege",
+            "fingers": "213141",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xa78a7",
+            "fingers": "031241",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xa98ax",
+            "fingers": "032140"
+        },
+        {
+            "frets": "fcdecx",
+            "fingers": "412310",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xa9xab",
+            "fingers": "021034"
+        },
+        {
+            "frets": "fcdxce",
+            "fingers": "412013",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "fexegh",
+            "fingers": "210134",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xxhggh",
+            "fingers": "002113",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "fedexx",
+            "fingers": "421300"
+        },
+        {
+            "frets": "xmjkjj",
+            "fingers": "041211",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xmjkmj",
+            "fingers": "031241",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xmlkmx",
+            "fingers": "032140"
+        }
+    ]
+}

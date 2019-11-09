@@ -1,0 +1,92 @@
+{
+    "key": "D#",
+    "suffix": "m7#5",
+    "positions": [
+        {
+            "frets": "xx1422",
+            "fingers": "001423"
+        },
+        {
+            "frets": "x64677",
+            "fingers": "021344",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x64647",
+            "fingers": "021314",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "b99bc9",
+            "fingers": "211341",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "bebbcb",
+            "fingers": "141121",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "bebbeb",
+            "fingers": "121131",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "x69679",
+            "fingers": "013124",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "bedbeb",
+            "fingers": "132141",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "bebbee",
+            "fingers": "121134",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "b9bxc9",
+            "fingers": "213041",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "bebbce",
+            "fingers": "131124",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xigijj",
+            "fingers": "021344",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xigigj",
+            "fingers": "021314",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xxdgee",
+            "fingers": "001423"
+        },
+        {
+            "frets": "xilijl",
+            "fingers": "013124",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

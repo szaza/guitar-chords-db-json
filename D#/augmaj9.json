@@ -1,0 +1,18 @@
+{
+    "key": "D#",
+    "suffix": "augmaj9",
+    "positions": [
+        {
+            "frets": "bacaca",
+            "fingers": "213141",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "badaca",
+            "fingers": "214131",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

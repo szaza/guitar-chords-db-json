@@ -1,0 +1,24 @@
+{
+    "key": "A",
+    "suffix": "mmaj7bb5/D#",
+    "positions": [
+        {
+            "frets": "bcadaa",
+            "fingers": "231411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bbadaa",
+            "fingers": "231411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bbcedx",
+            "fingers": "112430",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

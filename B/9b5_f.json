@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "9b5/F",
+    "positions": [
+        {
+            "frets": "121221",
+            "fingers": "121341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "dedeed",
+            "fingers": "121341",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "x898a9",
+            "fingers": "012143",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "xklkml",
+            "fingers": "012143",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

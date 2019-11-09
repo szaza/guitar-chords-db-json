@@ -1,0 +1,24 @@
+{
+    "key": "G",
+    "suffix": "maj7sus4#5/C#",
+    "positions": [
+        {
+            "frets": "99a888",
+            "fingers": "234111",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "99acxb",
+            "fingers": "112403",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "llmkkk",
+            "fingers": "234111",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

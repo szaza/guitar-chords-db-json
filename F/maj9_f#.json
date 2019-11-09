@@ -1,0 +1,28 @@
+{
+    "key": "F",
+    "suffix": "maj9/F#",
+    "positions": [
+        {
+            "frets": "202011",
+            "fingers": "203011",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "203010",
+            "fingers": "203010"
+        },
+        {
+            "frets": "ecfcdc",
+            "fingers": "314121",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "exfehf",
+            "fingers": "102143",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

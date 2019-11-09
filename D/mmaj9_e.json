@@ -1,0 +1,34 @@
+{
+    "key": "D",
+    "suffix": "mmaj9/E",
+    "positions": [
+        {
+            "frets": "000221",
+            "fingers": "000231"
+        },
+        {
+            "frets": "ccbaaa",
+            "fingers": "342111",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ccceed",
+            "fingers": "111342",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "x7x769",
+            "fingers": "020314"
+        },
+        {
+            "frets": "cxcax9",
+            "fingers": "304201"
+        },
+        {
+            "frets": "xjxjil",
+            "fingers": "020314"
+        }
+    ]
+}

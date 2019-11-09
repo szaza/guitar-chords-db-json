@@ -1,0 +1,34 @@
+{
+    "key": "G#",
+    "suffix": "m9/G",
+    "positions": [
+        {
+            "frets": "3x4304",
+            "fingers": "103204"
+        },
+        {
+            "frets": "366377",
+            "fingers": "123144",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "3263x2",
+            "fingers": "214311",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "fiifjj",
+            "fingers": "123144",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "feifxe",
+            "fingers": "214301",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

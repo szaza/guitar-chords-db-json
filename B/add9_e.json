@@ -1,0 +1,32 @@
+{
+    "key": "B",
+    "suffix": "add9/E",
+    "positions": [
+        {
+            "frets": "021x22",
+            "fingers": "021034"
+        },
+        {
+            "frets": "x79879",
+            "fingers": "013214",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "cexbeb",
+            "fingers": "230141",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "cedxex",
+            "fingers": "132040"
+        },
+        {
+            "frets": "xjlkjl",
+            "fingers": "013214",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

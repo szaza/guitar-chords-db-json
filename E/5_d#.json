@@ -1,0 +1,46 @@
+{
+    "key": "E",
+    "suffix": "5/D#",
+    "positions": [
+        {
+            "frets": "xx1x00",
+            "fingers": "001000"
+        },
+        {
+            "frets": "bx99cc",
+            "fingers": "301144",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x6x457",
+            "fingers": "030124"
+        },
+        {
+            "frets": "x699x7",
+            "fingers": "013402"
+        },
+        {
+            "frets": "xxx857",
+            "fingers": "000413"
+        },
+        {
+            "frets": "xxdxcc",
+            "fingers": "002011",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xixghj",
+            "fingers": "030124"
+        },
+        {
+            "frets": "xillxj",
+            "fingers": "013402"
+        },
+        {
+            "frets": "xxxkhj",
+            "fingers": "000413"
+        }
+    ]
+}

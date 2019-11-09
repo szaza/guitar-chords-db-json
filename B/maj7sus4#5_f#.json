@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "maj7sus4#5/F#",
+    "positions": [
+        {
+            "frets": "212000",
+            "fingers": "213000"
+        },
+        {
+            "frets": "212003",
+            "fingers": "213004"
+        },
+        {
+            "frets": "2x2303",
+            "fingers": "102304"
+        },
+        {
+            "frets": "edeccc",
+            "fingers": "324111",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "x99cbc",
+            "fingers": "011324",
+            "barres": "9",
+            "capo": "true"
+        }
+    ]
+}

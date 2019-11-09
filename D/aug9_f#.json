@@ -1,0 +1,36 @@
+{
+    "key": "D",
+    "suffix": "aug9/F#",
+    "positions": [
+        {
+            "frets": "230330",
+            "fingers": "120340"
+        },
+        {
+            "frets": "230310",
+            "fingers": "230410"
+        },
+        {
+            "frets": "210310",
+            "fingers": "310420"
+        },
+        {
+            "frets": "edcxdc",
+            "fingers": "421031",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "efcfxc",
+            "fingers": "231401",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "excfdc",
+            "fingers": "301421",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

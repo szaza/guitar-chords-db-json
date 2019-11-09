@@ -1,0 +1,90 @@
+{
+    "key": "C#",
+    "suffix": "6/B",
+    "positions": [
+        {
+            "frets": "786666",
+            "fingers": "231111",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "788666",
+            "fingers": "234111",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "786696",
+            "fingers": "231141",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "x2x321",
+            "fingers": "020431"
+        },
+        {
+            "frets": "7x8669",
+            "fingers": "203114",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xx9666",
+            "fingers": "004111",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xx9ab9",
+            "fingers": "001342"
+        },
+        {
+            "frets": "jkiiii",
+            "fingers": "231111",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xeffeg",
+            "fingers": "012314",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "jkkiii",
+            "fingers": "234111",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xebdbd",
+            "fingers": "041213",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "jkiili",
+            "fingers": "231141",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "jxkiil",
+            "fingers": "203114",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xexfed",
+            "fingers": "020431"
+        },
+        {
+            "frets": "xxliii",
+            "fingers": "004111",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

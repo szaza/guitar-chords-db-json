@@ -1,0 +1,90 @@
+{
+    "key": "D#",
+    "suffix": "majb5/E",
+    "positions": [
+        {
+            "frets": "0010x3",
+            "fingers": "001003"
+        },
+        {
+            "frets": "0012x3",
+            "fingers": "001203"
+        },
+        {
+            "frets": "xx2243",
+            "fingers": "001432"
+        },
+        {
+            "frets": "x7788x",
+            "fingers": "011240",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x75885",
+            "fingers": "021341",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "cadcax",
+            "fingers": "214310",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "x75x45",
+            "fingers": "042013"
+        },
+        {
+            "frets": "ccdcxf",
+            "fingers": "112104",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "ccdexf",
+            "fingers": "112304",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "caxcab",
+            "fingers": "310412",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cadxab",
+            "fingers": "314012",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ccxcxb",
+            "fingers": "230401"
+        },
+        {
+            "frets": "xxeegf",
+            "fingers": "001132",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xjhkkh",
+            "fingers": "021341",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xjjkkx",
+            "fingers": "011240",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xjhxgh",
+            "fingers": "042013"
+        }
+    ]
+}

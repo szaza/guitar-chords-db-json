@@ -1,0 +1,174 @@
+{
+    "key": "F",
+    "suffix": "maj7sus4/A#",
+    "positions": [
+        {
+            "frets": "x12311",
+            "fingers": "012311",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x13310",
+            "fingers": "013420"
+        },
+        {
+            "frets": "678966",
+            "fingers": "123411",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "688966",
+            "fingers": "123411",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "678x68",
+            "fingers": "123014",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "68855x",
+            "fingers": "234110",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "633356",
+            "fingers": "311124",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "67x968",
+            "fingers": "120413",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "6x8968",
+            "fingers": "102413",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xdefdd",
+            "fingers": "012311",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "68x558",
+            "fingers": "230114",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "68x968",
+            "fingers": "120413",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "68x556",
+            "fingers": "240113",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "xdaabc",
+            "fingers": "041123",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "67x56x",
+            "fingers": "240130"
+        },
+        {
+            "frets": "ijklii",
+            "fingers": "123411",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "ikklii",
+            "fingers": "123411",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xdaadc",
+            "fingers": "031142",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ifffhi",
+            "fingers": "311124",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "ijkxik",
+            "fingers": "123014",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "ikkhhx",
+            "fingers": "234110",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ijxlik",
+            "fingers": "120413",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xdffxc",
+            "fingers": "023401"
+        },
+        {
+            "frets": "ixklik",
+            "fingers": "102413",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "ikxhhk",
+            "fingers": "230114",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ikxlik",
+            "fingers": "120413",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xdexbd",
+            "fingers": "024013"
+        },
+        {
+            "frets": "xdfxdc",
+            "fingers": "024031"
+        },
+        {
+            "frets": "ikxhhi",
+            "fingers": "240113",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ijxhix",
+            "fingers": "240130"
+        }
+    ]
+}

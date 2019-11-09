@@ -1,0 +1,30 @@
+{
+    "key": "E",
+    "suffix": "9sus4/G",
+    "positions": [
+        {
+            "frets": "302232",
+            "fingers": "201134",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "feeefe",
+            "fingers": "211131",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fheehe",
+            "fingers": "231141",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fheefe",
+            "fingers": "241131",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

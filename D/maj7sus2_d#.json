@@ -1,0 +1,18 @@
+{
+    "key": "D",
+    "suffix": "maj7sus2/D#",
+    "positions": [
+        {
+            "frets": "bcc9x9",
+            "fingers": "234101",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "bxc9a9",
+            "fingers": "304121",
+            "barres": "9",
+            "capo": "true"
+        }
+    ]
+}

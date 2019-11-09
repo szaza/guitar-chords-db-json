@@ -1,0 +1,24 @@
+{
+    "key": "F",
+    "suffix": "m13/A",
+    "positions": [
+        {
+            "frets": "x01131",
+            "fingers": "001131",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "563334",
+            "fingers": "341112",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "hifffg",
+            "fingers": "341112",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

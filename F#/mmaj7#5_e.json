@@ -1,0 +1,22 @@
+{
+    "key": "F#",
+    "suffix": "mmaj7#5/E",
+    "positions": [
+        {
+            "frets": "003232",
+            "fingers": "003142"
+        },
+        {
+            "frets": "x77a7a",
+            "fingers": "011213",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xjjmjm",
+            "fingers": "011213",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

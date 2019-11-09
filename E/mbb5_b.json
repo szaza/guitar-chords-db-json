@@ -1,0 +1,88 @@
+{
+    "key": "E",
+    "suffix": "mbb5/B",
+    "positions": [
+        {
+            "frets": "775x55",
+            "fingers": "341011",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "77798x",
+            "fingers": "111320",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "775x85",
+            "fingers": "231041",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "7a798x",
+            "fingers": "141320",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "7a79ax",
+            "fingers": "131240",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "jjhxhh",
+            "fingers": "341011",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xeeehf",
+            "fingers": "011142",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xx9cac",
+            "fingers": "001324"
+        },
+        {
+            "frets": "xehehh",
+            "fingers": "012134",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "jjjlkx",
+            "fingers": "111320",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xehehf",
+            "fingers": "013142",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "jjhxkh",
+            "fingers": "231041",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "jmjlkx",
+            "fingers": "141320",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "jmjlmx",
+            "fingers": "131240",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

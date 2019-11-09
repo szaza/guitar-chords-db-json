@@ -1,0 +1,24 @@
+{
+    "key": "G",
+    "suffix": "sus2sus4/D#",
+    "positions": [
+        {
+            "frets": "baacaa",
+            "fingers": "211311",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bcacaa",
+            "fingers": "231411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bcccdx",
+            "fingers": "122430",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

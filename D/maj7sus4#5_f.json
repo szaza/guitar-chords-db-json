@@ -1,0 +1,26 @@
+{
+    "key": "D",
+    "suffix": "maj7sus4#5/F",
+    "positions": [
+        {
+            "frets": "110023",
+            "fingers": "120034"
+        },
+        {
+            "frets": "1x0323",
+            "fingers": "100324"
+        },
+        {
+            "frets": "ddccex",
+            "fingers": "231140",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dabxba",
+            "fingers": "412031",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

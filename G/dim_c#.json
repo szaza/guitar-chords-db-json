@@ -1,0 +1,92 @@
+{
+    "key": "G",
+    "suffix": "dim/C#",
+    "positions": [
+        {
+            "frets": "x453x3",
+            "fingers": "034102"
+        },
+        {
+            "frets": "x456x6",
+            "fingers": "012304"
+        },
+        {
+            "frets": "x4532x",
+            "fingers": "034210"
+        },
+        {
+            "frets": "x4x323",
+            "fingers": "040213"
+        },
+        {
+            "frets": "9abxb9",
+            "fingers": "123041",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x453x6",
+            "fingers": "023104"
+        },
+        {
+            "frets": "9x8686",
+            "fingers": "402131",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "9axcb9",
+            "fingers": "120431",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "9xbcb9",
+            "fingers": "102431",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "9a8x89",
+            "fingers": "241013",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "9a8xbx",
+            "fingers": "231040"
+        },
+        {
+            "frets": "xghfxf",
+            "fingers": "034102"
+        },
+        {
+            "frets": "xghixi",
+            "fingers": "012304"
+        },
+        {
+            "frets": "xghfex",
+            "fingers": "034210"
+        },
+        {
+            "frets": "xgxfef",
+            "fingers": "040213"
+        },
+        {
+            "frets": "lxkiki",
+            "fingers": "402131",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xghfxi",
+            "fingers": "023104"
+        },
+        {
+            "frets": "lmkxkl",
+            "fingers": "241013",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

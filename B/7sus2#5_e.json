@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "7sus2#5/E",
+    "positions": [
+        {
+            "frets": "02x223",
+            "fingers": "010142",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "cc9cx9",
+            "fingers": "231401",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ca9xa9",
+            "fingers": "421031",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "cx9ca9",
+            "fingers": "301421",
+            "barres": "9",
+            "capo": "true"
+        }
+    ]
+}

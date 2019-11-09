@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "9sus4/D",
+    "positions": [
+        {
+            "frets": "a999a9",
+            "fingers": "211131",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ac99c9",
+            "fingers": "231141",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ac99a9",
+            "fingers": "241131",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "mlllml",
+            "fingers": "211131",
+            "barres": "21",
+            "capo": "true"
+        }
+    ]
+}

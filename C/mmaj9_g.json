@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "mmaj9/G",
+    "positions": [
+        {
+            "frets": "36x537",
+            "fingers": "130214",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "33x747",
+            "fingers": "110324",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "fixhfj",
+            "fingers": "130214",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "ffxjgj",
+            "fingers": "110324",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

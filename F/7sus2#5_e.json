@@ -1,0 +1,22 @@
+{
+    "key": "F",
+    "suffix": "7sus2#5/E",
+    "positions": [
+        {
+            "frets": "0x1021",
+            "fingers": "001032"
+        },
+        {
+            "frets": "cxdced",
+            "fingers": "102143",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cabaxb",
+            "fingers": "412103",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "key": "F",
+    "suffix": "13/F#",
+    "positions": [
+        {
+            "frets": "201331",
+            "fingers": "201341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "201231",
+            "fingers": "201341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "201031",
+            "fingers": "301042"
+        },
+        {
+            "frets": "exdefd",
+            "fingers": "201341",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "key": "B",
+    "suffix": "m11/F#",
+    "positions": [
+        {
+            "frets": "200200",
+            "fingers": "100200"
+        },
+        {
+            "frets": "220200",
+            "fingers": "120300"
+        },
+        {
+            "frets": "220220",
+            "fingers": "120340"
+        },
+        {
+            "frets": "220230",
+            "fingers": "120340"
+        },
+        {
+            "frets": "eccecc",
+            "fingers": "311411",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eececc",
+            "fingers": "231411",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

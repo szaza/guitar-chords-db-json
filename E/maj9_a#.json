@@ -1,0 +1,30 @@
+{
+    "key": "E",
+    "suffix": "maj9/A#",
+    "positions": [
+        {
+            "frets": "x12142",
+            "fingers": "012143",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "67687x",
+            "fingers": "121430",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xdedge",
+            "fingers": "012143",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "ijikjx",
+            "fingers": "121430",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

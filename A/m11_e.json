@@ -1,0 +1,18 @@
+{
+    "key": "A",
+    "suffix": "m11/E",
+    "positions": [
+        {
+            "frets": "caacaa",
+            "fingers": "311411",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ccacaa",
+            "fingers": "231411",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

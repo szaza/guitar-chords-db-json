@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "maj7b5/A",
+    "positions": [
+        {
+            "frets": "57x577",
+            "fingers": "120134",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "heehhe",
+            "fingers": "211341",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "hfegxe",
+            "fingers": "421301",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "hjxhjj",
+            "fingers": "120134",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

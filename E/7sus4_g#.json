@@ -1,0 +1,88 @@
+{
+    "key": "E",
+    "suffix": "7sus4/G#",
+    "positions": [
+        {
+            "frets": "45x455",
+            "fingers": "120134",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "4777x7",
+            "fingers": "144414",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xx6755",
+            "fingers": "002311",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "45745x",
+            "fingers": "124130",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xb99aa",
+            "fingers": "031124",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ghxghh",
+            "fingers": "120134",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "geeefh",
+            "fingers": "311124",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "gjjjxj",
+            "fingers": "144414",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xbcxac",
+            "fingers": "023014"
+        },
+        {
+            "frets": "gheefx",
+            "fingers": "341120",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "gheehx",
+            "fingers": "231140",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "gheexh",
+            "fingers": "231104",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "ghjghx",
+            "fingers": "124130",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xxijhh",
+            "fingers": "002311",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

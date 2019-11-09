@@ -1,0 +1,26 @@
+{
+    "key": "F",
+    "suffix": "m9/E",
+    "positions": [
+        {
+            "frets": "033044",
+            "fingers": "012034"
+        },
+        {
+            "frets": "0x3143",
+            "fingers": "002143"
+        },
+        {
+            "frets": "cffcgg",
+            "fingers": "123144",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cbfcxb",
+            "fingers": "214301",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

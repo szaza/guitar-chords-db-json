@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "aug7/D",
+    "positions": [
+        {
+            "frets": "acbaab",
+            "fingers": "142113",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "a8b8ax",
+            "fingers": "214130",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "a8x8a9",
+            "fingers": "310142",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "mkxkml",
+            "fingers": "310142",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

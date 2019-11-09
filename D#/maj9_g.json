@@ -1,0 +1,22 @@
+{
+    "key": "D#",
+    "suffix": "maj9/G",
+    "positions": [
+        {
+            "frets": "311331",
+            "fingers": "211341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "3x1031",
+            "fingers": "301042"
+        },
+        {
+            "frets": "fddffd",
+            "fingers": "211341",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

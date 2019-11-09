@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "maj7sus2/C",
+    "positions": [
+        {
+            "frets": "8996x6",
+            "fingers": "234101",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "8x9676",
+            "fingers": "304121",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "kllixi",
+            "fingers": "234101",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "kxliji",
+            "fingers": "304121",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

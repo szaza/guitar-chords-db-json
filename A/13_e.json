@@ -1,0 +1,34 @@
+{
+    "key": "A",
+    "suffix": "13/E",
+    "positions": [
+        {
+            "frets": "002022",
+            "fingers": "001023"
+        },
+        {
+            "frets": "x75675",
+            "fingers": "031241",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "cabbaa",
+            "fingers": "412311",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ccecee",
+            "fingers": "112134",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xjhijh",
+            "fingers": "031241",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

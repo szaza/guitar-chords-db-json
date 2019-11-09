@@ -1,0 +1,94 @@
+{
+    "key": "B",
+    "suffix": "7/F#",
+    "positions": [
+        {
+            "frets": "22120x",
+            "fingers": "231400"
+        },
+        {
+            "frets": "201202",
+            "fingers": "201304"
+        },
+        {
+            "frets": "x97877",
+            "fingers": "031211",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x978a7",
+            "fingers": "031241",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x99bab",
+            "fingers": "011324",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "eegege",
+            "fingers": "113141",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "x998ax",
+            "fingers": "023140"
+        },
+        {
+            "frets": "eegegh",
+            "fingers": "112134",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "ecdecx",
+            "fingers": "312410",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "ecdxce",
+            "fingers": "312014",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "eedexx",
+            "fingers": "231400"
+        },
+        {
+            "frets": "ecxbcb",
+            "fingers": "420131",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xljkjj",
+            "fingers": "031211",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xljkmj",
+            "fingers": "031241",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "eexexb",
+            "fingers": "230401"
+        },
+        {
+            "frets": "exxecb",
+            "fingers": "300421"
+        },
+        {
+            "frets": "xllkmx",
+            "fingers": "023140"
+        }
+    ]
+}

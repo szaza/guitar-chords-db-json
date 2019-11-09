@@ -1,0 +1,64 @@
+{
+    "key": "C",
+    "suffix": "5/F#",
+    "positions": [
+        {
+            "frets": "23x013",
+            "fingers": "230014"
+        },
+        {
+            "frets": "xx45x3",
+            "fingers": "002301"
+        },
+        {
+            "frets": "xx4x13",
+            "fingers": "004013"
+        },
+        {
+            "frets": "x9ax88",
+            "fingers": "023011",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "xxxb88",
+            "fingers": "000411",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "efxcdx",
+            "fingers": "340120"
+        },
+        {
+            "frets": "x9acxx",
+            "fingers": "012400"
+        },
+        {
+            "frets": "efxxdf",
+            "fingers": "230014"
+        },
+        {
+            "frets": "efxcxf",
+            "fingers": "230104"
+        },
+        {
+            "frets": "exxcdf",
+            "fingers": "300124"
+        },
+        {
+            "frets": "xlmxkk",
+            "fingers": "023011",
+            "barres": "20",
+            "capo": "true"
+        },
+        {
+            "frets": "xxghxf",
+            "fingers": "002301"
+        },
+        {
+            "frets": "xxgxdf",
+            "fingers": "004013"
+        }
+    ]
+}

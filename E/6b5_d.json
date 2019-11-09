@@ -1,0 +1,30 @@
+{
+    "key": "E",
+    "suffix": "6b5/D",
+    "positions": [
+        {
+            "frets": "x56656",
+            "fingers": "012314",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "abx9b9",
+            "fingers": "230141",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xhiihi",
+            "fingers": "012314",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xhefeg",
+            "fingers": "041213",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

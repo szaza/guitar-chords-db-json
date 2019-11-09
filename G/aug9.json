@@ -1,0 +1,28 @@
+{
+    "key": "G",
+    "suffix": "aug9",
+    "positions": [
+        {
+            "frets": "3212x1",
+            "fingers": "421301",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "3x1201",
+            "fingers": "401302"
+        },
+        {
+            "frets": "fedexd",
+            "fingers": "421301",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "fefegx",
+            "fingers": "213140",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

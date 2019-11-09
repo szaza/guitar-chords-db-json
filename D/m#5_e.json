@@ -1,0 +1,90 @@
+{
+    "key": "D",
+    "suffix": "m#5/E",
+    "positions": [
+        {
+            "frets": "013331",
+            "fingers": "012341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "010331",
+            "fingers": "010342"
+        },
+        {
+            "frets": "xx2331",
+            "fingers": "002341"
+        },
+        {
+            "frets": "x78766",
+            "fingers": "024311",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "cxcaba",
+            "fingers": "304121",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "x78axa",
+            "fingers": "012304"
+        },
+        {
+            "frets": "cdfffx",
+            "fingers": "124440",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "cdxaba",
+            "fingers": "340121",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cdcaxa",
+            "fingers": "243101",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cxcffd",
+            "fingers": "101342",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cdcxfd",
+            "fingers": "121043",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cdcfxd",
+            "fingers": "121403",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xxeffd",
+            "fingers": "002341"
+        },
+        {
+            "frets": "xjkjii",
+            "fingers": "024311",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "cxcxbd",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xjkmxm",
+            "fingers": "012304"
+        }
+    ]
+}

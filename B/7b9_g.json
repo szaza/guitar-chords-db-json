@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "7b9/G",
+    "positions": [
+        {
+            "frets": "32121x",
+            "fingers": "421310",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "xa98a8",
+            "fingers": "032141",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "fededx",
+            "fingers": "421310",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xmlkmk",
+            "fingers": "032141",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "key": "E",
+    "suffix": "mmaj13/B",
+    "positions": [
+        {
+            "frets": "x21020",
+            "fingers": "021030"
+        },
+        {
+            "frets": "765655",
+            "fingers": "421311",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "xedcec",
+            "fingers": "032141",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "jihihh",
+            "fingers": "421311",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

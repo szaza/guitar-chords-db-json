@@ -1,0 +1,28 @@
+{
+    "key": "G",
+    "suffix": "aug7/E",
+    "positions": [
+        {
+            "frets": "021001",
+            "fingers": "031002"
+        },
+        {
+            "frets": "cedccd",
+            "fingers": "142113",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cadacx",
+            "fingers": "214130",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "caxacb",
+            "fingers": "310142",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

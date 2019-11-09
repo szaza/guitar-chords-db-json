@@ -1,0 +1,28 @@
+{
+    "key": "B",
+    "suffix": "maj11/C",
+    "positions": [
+        {
+            "frets": "x31300",
+            "fingers": "031400"
+        },
+        {
+            "frets": "8699x6",
+            "fingers": "213401",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xfdfcc",
+            "fingers": "032411",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "killxi",
+            "fingers": "213401",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

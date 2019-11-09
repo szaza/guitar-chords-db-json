@@ -1,0 +1,90 @@
+{
+    "key": "E",
+    "suffix": "7b9",
+    "positions": [
+        {
+            "frets": "020101",
+            "fingers": "030102"
+        },
+        {
+            "frets": "020131",
+            "fingers": "030142"
+        },
+        {
+            "frets": "022131",
+            "fingers": "023141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "023130",
+            "fingers": "023140"
+        },
+        {
+            "frets": "023131",
+            "fingers": "023141",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x76767",
+            "fingers": "021314",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "cbcaxa",
+            "fingers": "324101",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cbcdxd",
+            "fingers": "213404",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "cecdcd",
+            "fingers": "141213",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "x7x764",
+            "fingers": "030421"
+        },
+        {
+            "frets": "cbxaca",
+            "fingers": "320141",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cx9a9a",
+            "fingers": "401213",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "cxfdfc",
+            "fingers": "103241",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xjijij",
+            "fingers": "021314",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "cxca9x",
+            "fingers": "304210"
+        },
+        {
+            "frets": "xjxjig",
+            "fingers": "030421"
+        }
+    ]
+}

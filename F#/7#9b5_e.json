@@ -1,0 +1,30 @@
+{
+    "key": "F#",
+    "suffix": "7#9b5/E",
+    "positions": [
+        {
+            "frets": "012212",
+            "fingers": "012314",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x78575",
+            "fingers": "024131",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "cdabax",
+            "fingers": "341210",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xjkhjh",
+            "fingers": "024131",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

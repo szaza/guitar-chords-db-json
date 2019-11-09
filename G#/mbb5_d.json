@@ -1,0 +1,40 @@
+{
+    "key": "G#",
+    "suffix": "mbb5/D",
+    "positions": [
+        {
+            "frets": "x566x7",
+            "fingers": "012304"
+        },
+        {
+            "frets": "ab9x99",
+            "fingers": "231011",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x5x424",
+            "fingers": "040213"
+        },
+        {
+            "frets": "ab9xc9",
+            "fingers": "231041",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xhiixj",
+            "fingers": "012304"
+        },
+        {
+            "frets": "mxlxll",
+            "fingers": "201011",
+            "barres": "21",
+            "capo": "true"
+        },
+        {
+            "frets": "xhxgeg",
+            "fingers": "040213"
+        }
+    ]
+}

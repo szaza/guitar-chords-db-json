@@ -1,0 +1,90 @@
+{
+    "key": "A",
+    "suffix": "sus4",
+    "positions": [
+        {
+            "frets": "x00230",
+            "fingers": "000120"
+        },
+        {
+            "frets": "x02230",
+            "fingers": "001230"
+        },
+        {
+            "frets": "557755",
+            "fingers": "113411",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "577755",
+            "fingers": "123411",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "hhjjhh",
+            "fingers": "113411",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xx79aa",
+            "fingers": "001234"
+        },
+        {
+            "frets": "hjjjhh",
+            "fingers": "123411",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xccefc",
+            "fingers": "011341",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xceefc",
+            "fingers": "012341",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "hheefx",
+            "fingers": "341120",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xccxac",
+            "fingers": "023014"
+        },
+        {
+            "frets": "hheehx",
+            "fingers": "231140",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xcc9xc",
+            "fingers": "023104"
+        },
+        {
+            "frets": "hheexh",
+            "fingers": "231104",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "hxeefh",
+            "fingers": "301124",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xxjlmm",
+            "fingers": "001234"
+        }
+    ]
+}

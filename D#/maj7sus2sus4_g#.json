@@ -1,0 +1,88 @@
+{
+    "key": "D#",
+    "suffix": "maj7sus2sus4/G#",
+    "positions": [
+        {
+            "frets": "411131",
+            "fingers": "411131",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "411331",
+            "fingers": "411231",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "463336",
+            "fingers": "231114",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "45334x",
+            "fingers": "241130",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "463334",
+            "fingers": "241113",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "46x764",
+            "fingers": "120431",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "gdddfd",
+            "fingers": "411131",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "gddffd",
+            "fingers": "411231",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "xbdaba",
+            "fingers": "024131",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "gifffi",
+            "fingers": "231114",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "gifffg",
+            "fingers": "241113",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "ghffgx",
+            "fingers": "241130",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "xbcaxb",
+            "fingers": "024103"
+        },
+        {
+            "frets": "gixjig",
+            "fingers": "120431",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

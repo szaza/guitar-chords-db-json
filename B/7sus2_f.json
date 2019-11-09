@@ -1,0 +1,40 @@
+{
+    "key": "B",
+    "suffix": "7sus2/F",
+    "positions": [
+        {
+            "frets": "xx3425",
+            "fingers": "002314"
+        },
+        {
+            "frets": "x876x7",
+            "fingers": "042103"
+        },
+        {
+            "frets": "dcbbcx",
+            "fingers": "421130",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "debexx",
+            "fingers": "231400"
+        },
+        {
+            "frets": "dxbecx",
+            "fingers": "301420"
+        },
+        {
+            "frets": "xxfgeh",
+            "fingers": "002314"
+        },
+        {
+            "frets": "xklxml",
+            "fingers": "012043"
+        },
+        {
+            "frets": "xkjixj",
+            "fingers": "042103"
+        }
+    ]
+}

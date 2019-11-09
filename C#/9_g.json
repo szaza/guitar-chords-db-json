@@ -1,0 +1,24 @@
+{
+    "key": "C#",
+    "suffix": "9/G",
+    "positions": [
+        {
+            "frets": "34344x",
+            "fingers": "121340",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "xabacb",
+            "fingers": "012143",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "fgfggx",
+            "fingers": "121340",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

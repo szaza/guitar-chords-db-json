@@ -1,0 +1,48 @@
+{
+    "key": "E",
+    "suffix": "m7#5/F#",
+    "positions": [
+        {
+            "frets": "230030",
+            "fingers": "120030"
+        },
+        {
+            "frets": "230010",
+            "fingers": "230010"
+        },
+        {
+            "frets": "232030",
+            "fingers": "132040"
+        },
+        {
+            "frets": "25555x",
+            "fingers": "144440",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "efccdc",
+            "fingers": "341121",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "efccfc",
+            "fingers": "231141",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "efexff",
+            "fingers": "121034",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "ehhhhx",
+            "fingers": "144440",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

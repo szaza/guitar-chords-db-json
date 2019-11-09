@@ -1,0 +1,30 @@
+{
+    "key": "A",
+    "suffix": "augmaj9",
+    "positions": [
+        {
+            "frets": "546464",
+            "fingers": "213141",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "547464",
+            "fingers": "214131",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "hgigig",
+            "fingers": "213141",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "hgjgig",
+            "fingers": "214131",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

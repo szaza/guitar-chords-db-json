@@ -1,0 +1,22 @@
+{
+    "key": "D#",
+    "suffix": "maj9/E",
+    "positions": [
+        {
+            "frets": "011031",
+            "fingers": "012043"
+        },
+        {
+            "frets": "cadaba",
+            "fingers": "314121",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cxdcfd",
+            "fingers": "102143",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

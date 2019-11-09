@@ -1,0 +1,30 @@
+{
+    "key": "G#",
+    "suffix": "7#9/A#",
+    "positions": [
+        {
+            "frets": "x14414",
+            "fingers": "012314",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "6x6577",
+            "fingers": "203144",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xdggdg",
+            "fingers": "012314",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "ixihjj",
+            "fingers": "203144",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

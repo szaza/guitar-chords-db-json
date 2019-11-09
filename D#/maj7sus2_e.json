@@ -1,0 +1,24 @@
+{
+    "key": "D#",
+    "suffix": "maj7sus2/E",
+    "positions": [
+        {
+            "frets": "011331",
+            "fingers": "011341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "cddaxa",
+            "fingers": "234101",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cxdaba",
+            "fingers": "304121",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

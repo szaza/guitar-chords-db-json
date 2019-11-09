@@ -1,0 +1,24 @@
+{
+    "key": "F",
+    "suffix": "maj7sus4#5/D",
+    "positions": [
+        {
+            "frets": "axbabc",
+            "fingers": "102134",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "adbaxc",
+            "fingers": "142103",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "mkklxl",
+            "fingers": "311204",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

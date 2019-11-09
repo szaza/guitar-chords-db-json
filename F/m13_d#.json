@@ -1,0 +1,34 @@
+{
+    "key": "F",
+    "suffix": "m13/D#",
+    "positions": [
+        {
+            "frets": "bbaaba",
+            "fingers": "231141",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bbaada",
+            "fingers": "231141",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "b8x89a",
+            "fingers": "410123",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "bbdaxa",
+            "fingers": "234101",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bxxa9a",
+            "fingers": "400213"
+        }
+    ]
+}

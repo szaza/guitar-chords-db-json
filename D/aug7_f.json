@@ -1,0 +1,42 @@
+{
+    "key": "D",
+    "suffix": "aug7/F",
+    "positions": [
+        {
+            "frets": "110x12",
+            "fingers": "120034"
+        },
+        {
+            "frets": "1x0312",
+            "fingers": "100423"
+        },
+        {
+            "frets": "1303x2",
+            "fingers": "130402"
+        },
+        {
+            "frets": "x88778",
+            "fingers": "023114",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "ddabxa",
+            "fingers": "341201",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dxabba",
+            "fingers": "401231",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xkkjjk",
+            "fingers": "023114",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

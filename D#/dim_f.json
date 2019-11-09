@@ -1,0 +1,58 @@
+{
+    "key": "D#",
+    "suffix": "dim/F",
+    "positions": [
+        {
+            "frets": "1012x2",
+            "fingers": "102304"
+        },
+        {
+            "frets": "xx3242",
+            "fingers": "003142"
+        },
+        {
+            "frets": "x8787x",
+            "fingers": "031420"
+        },
+        {
+            "frets": "dcdbxb",
+            "fingers": "324101",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "dcdexe",
+            "fingers": "213404",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "x8x875",
+            "fingers": "030421"
+        },
+        {
+            "frets": "x8xbab",
+            "fingers": "010324"
+        },
+        {
+            "frets": "xxfege",
+            "fingers": "003142"
+        },
+        {
+            "frets": "dxdbax",
+            "fingers": "304210"
+        },
+        {
+            "frets": "dxxbab",
+            "fingers": "400213"
+        },
+        {
+            "frets": "xkjkjx",
+            "fingers": "031420"
+        },
+        {
+            "frets": "xkxkjh",
+            "fingers": "030421"
+        }
+    ]
+}

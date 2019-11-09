@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "m11/G#",
+    "positions": [
+        {
+            "frets": "454455",
+            "fingers": "121134",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "45745x",
+            "fingers": "124130",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "ghgghh",
+            "fingers": "121134",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "ghjghx",
+            "fingers": "124130",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

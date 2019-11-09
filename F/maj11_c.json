@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "maj11/C",
+    "positions": [
+        {
+            "frets": "877x66",
+            "fingers": "423011",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "8x7966",
+            "fingers": "302411",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "kjjxii",
+            "fingers": "423011",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "kxjlii",
+            "fingers": "302411",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

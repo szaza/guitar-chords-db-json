@@ -1,0 +1,46 @@
+{
+    "key": "C#",
+    "suffix": "m7#5/F#",
+    "positions": [
+        {
+            "frets": "22x220",
+            "fingers": "120340"
+        },
+        {
+            "frets": "x999a9",
+            "fingers": "011121",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "eeeeeh",
+            "fingers": "111114",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "eeegeh",
+            "fingers": "111314",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "egeghh",
+            "fingers": "121344",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "egegeh",
+            "fingers": "121314",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xlllml",
+            "fingers": "011121",
+            "barres": "21",
+            "capo": "true"
+        }
+    ]
+}

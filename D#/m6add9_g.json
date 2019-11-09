@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "m6add9/G",
+    "positions": [
+        {
+            "frets": "334866",
+            "fingers": "112034",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "364x11",
+            "fingers": "203011",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "ffgkii",
+            "fingers": "112034",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "figxdd",
+            "fingers": "203011",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

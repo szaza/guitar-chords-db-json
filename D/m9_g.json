@@ -1,0 +1,28 @@
+{
+    "key": "D",
+    "suffix": "m9/G",
+    "positions": [
+        {
+            "frets": "333x30",
+            "fingers": "123040"
+        },
+        {
+            "frets": "35355x",
+            "fingers": "121340",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "xacadc",
+            "fingers": "012143",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "fhfhhx",
+            "fingers": "121340",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

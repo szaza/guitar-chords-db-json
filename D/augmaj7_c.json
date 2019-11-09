@@ -1,0 +1,34 @@
+{
+    "key": "D",
+    "suffix": "augmaj7/C",
+    "positions": [
+        {
+            "frets": "x30322",
+            "fingers": "020314"
+        },
+        {
+            "frets": "x34636",
+            "fingers": "012314",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "8x8779",
+            "fingers": "203114",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xfgifi",
+            "fingers": "012314",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "kxkjjl",
+            "fingers": "203114",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

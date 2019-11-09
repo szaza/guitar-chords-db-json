@@ -1,0 +1,42 @@
+{
+    "key": "F",
+    "suffix": "m13/B",
+    "positions": [
+        {
+            "frets": "x21131",
+            "fingers": "021131",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "766766",
+            "fingers": "211311",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "766768",
+            "fingers": "211314",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "jiijii",
+            "fingers": "211311",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xeddfd",
+            "fingers": "021131",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "jiijik",
+            "fingers": "211314",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

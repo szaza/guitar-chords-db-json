@@ -1,0 +1,30 @@
+{
+    "key": "D",
+    "suffix": "7sus2sus4/C#",
+    "positions": [
+        {
+            "frets": "977788",
+            "fingers": "311124",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "9aa9xa",
+            "fingers": "123104",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ljjjkk",
+            "fingers": "311124",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "lmmlxm",
+            "fingers": "123104",
+            "barres": "21",
+            "capo": "true"
+        }
+    ]
+}

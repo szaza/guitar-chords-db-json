@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "maj11/G#",
+    "positions": [
+        {
+            "frets": "422x11",
+            "fingers": "423011",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "4x2411",
+            "fingers": "302411",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "geexdd",
+            "fingers": "423011",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "gxegdd",
+            "fingers": "302411",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

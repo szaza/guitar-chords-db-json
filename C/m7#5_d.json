@@ -1,0 +1,36 @@
+{
+    "key": "C",
+    "suffix": "m7#5/D",
+    "positions": [
+        {
+            "frets": "ab8898",
+            "fingers": "341121",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "ab88b8",
+            "fingers": "231141",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "abaxbb",
+            "fingers": "121034",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "addddx",
+            "fingers": "144440",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "mxkklk",
+            "fingers": "301121",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

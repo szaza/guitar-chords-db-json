@@ -1,0 +1,22 @@
+{
+    "key": "F#",
+    "suffix": "aug9/E",
+    "positions": [
+        {
+            "frets": "010132",
+            "fingers": "010243"
+        },
+        {
+            "frets": "012132",
+            "fingers": "012143",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "cdcdxe",
+            "fingers": "121304",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

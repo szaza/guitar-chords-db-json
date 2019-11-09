@@ -1,0 +1,90 @@
+{
+    "key": "G#",
+    "suffix": "mmaj7/B",
+    "positions": [
+        {
+            "frets": "x21103",
+            "fingers": "031204"
+        },
+        {
+            "frets": "765444",
+            "fingers": "432111",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "x21143",
+            "fingers": "021143",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "76688x",
+            "fingers": "211340",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "766x87",
+            "fingers": "211043",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "7ax897",
+            "fingers": "140231",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "7a9x97",
+            "fingers": "142031",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "jihggg",
+            "fingers": "432111",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xx9c9b",
+            "fingers": "001423"
+        },
+        {
+            "frets": "xeddgf",
+            "fingers": "021143",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "jiikkx",
+            "fingers": "211340",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "jiixkj",
+            "fingers": "211043",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xexdcf",
+            "fingers": "030214"
+        },
+        {
+            "frets": "jmxklj",
+            "fingers": "140231",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "jmlxlj",
+            "fingers": "142031",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

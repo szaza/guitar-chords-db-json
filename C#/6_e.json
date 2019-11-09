@@ -1,0 +1,90 @@
+{
+    "key": "C#",
+    "suffix": "6/E",
+    "positions": [
+        {
+            "frets": "013121",
+            "fingers": "013121",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "013321",
+            "fingers": "013421",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x76666",
+            "fingers": "021111",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "x78666",
+            "fingers": "023111",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xx2321",
+            "fingers": "002431"
+        },
+        {
+            "frets": "cbbdbd",
+            "fingers": "211314",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "x78669",
+            "fingers": "023114",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xjiiii",
+            "fingers": "021111",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "cdbxbd",
+            "fingers": "231014",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xjkiii",
+            "fingers": "023111",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "cdbaxx",
+            "fingers": "342100"
+        },
+        {
+            "frets": "cxbabx",
+            "fingers": "402130"
+        },
+        {
+            "frets": "cxxab9",
+            "fingers": "400231"
+        },
+        {
+            "frets": "xxefed",
+            "fingers": "002431"
+        },
+        {
+            "frets": "xjkiil",
+            "fingers": "023114",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "cxffex",
+            "fingers": "103420"
+        }
+    ]
+}

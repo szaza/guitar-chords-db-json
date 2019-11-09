@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "mmaj9/A#",
+    "positions": [
+        {
+            "frets": "69x86a",
+            "fingers": "130214",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "66xa7a",
+            "fingers": "110324",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "ilxkim",
+            "fingers": "130214",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "iixmjm",
+            "fingers": "110324",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

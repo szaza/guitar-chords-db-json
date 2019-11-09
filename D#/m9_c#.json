@@ -1,0 +1,38 @@
+{
+    "key": "D#",
+    "suffix": "m9/C#",
+    "positions": [
+        {
+            "frets": "99xabb",
+            "fingers": "110234",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x44x41",
+            "fingers": "023041"
+        },
+        {
+            "frets": "99x866",
+            "fingers": "340211",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "99baxb",
+            "fingers": "113204",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "llxkii",
+            "fingers": "340211",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xggxgd",
+            "fingers": "023041"
+        }
+    ]
+}

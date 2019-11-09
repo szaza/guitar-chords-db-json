@@ -1,0 +1,90 @@
+{
+    "key": "D",
+    "suffix": "sus4#5/D#",
+    "positions": [
+        {
+            "frets": "xx1333",
+            "fingers": "001234"
+        },
+        {
+            "frets": "x65333",
+            "fingers": "043111",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "x68786",
+            "fingers": "013241",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "x65336",
+            "fingers": "032114",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "bdccbx",
+            "fingers": "142310",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "x657x6",
+            "fingers": "021403"
+        },
+        {
+            "frets": "baxcba",
+            "fingers": "210431",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bacxba",
+            "fingers": "214031",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xxdfff",
+            "fingers": "001234"
+        },
+        {
+            "frets": "ba8x8a",
+            "fingers": "421013",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "xihfff",
+            "fingers": "043111",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "xxdcba",
+            "fingers": "004321"
+        },
+        {
+            "frets": "xikjki",
+            "fingers": "013241",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xihffi",
+            "fingers": "032114",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "bdxcxa",
+            "fingers": "240301"
+        },
+        {
+            "frets": "xihjxi",
+            "fingers": "021403"
+        }
+    ]
+}

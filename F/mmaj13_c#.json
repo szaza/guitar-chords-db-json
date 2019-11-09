@@ -1,0 +1,36 @@
+{
+    "key": "F",
+    "suffix": "mmaj13/C#",
+    "positions": [
+        {
+            "frets": "x42131",
+            "fingers": "042131",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "976766",
+            "fingers": "421311",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "9xca9c",
+            "fingers": "103214",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xgedfd",
+            "fingers": "042131",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "ljijii",
+            "fingers": "421311",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "key": "E",
+    "suffix": "7sus4#5/F",
+    "positions": [
+        {
+            "frets": "100210",
+            "fingers": "100320"
+        },
+        {
+            "frets": "130210",
+            "fingers": "140320"
+        },
+        {
+            "frets": "130230",
+            "fingers": "130240"
+        },
+        {
+            "frets": "dccedc",
+            "fingers": "211431",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "dfcexc",
+            "fingers": "241301",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "key": "G",
+    "suffix": "7b5/E",
+    "positions": [
+        {
+            "frets": "023023",
+            "fingers": "013024"
+        },
+        {
+            "frets": "023021",
+            "fingers": "024031"
+        },
+        {
+            "frets": "cabacx",
+            "fingers": "312140",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ca9ax9",
+            "fingers": "421301",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "cefcex",
+            "fingers": "124130",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cexced",
+            "fingers": "130142",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

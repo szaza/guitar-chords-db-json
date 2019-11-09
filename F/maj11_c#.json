@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "maj11/C#",
+    "positions": [
+        {
+            "frets": "977x66",
+            "fingers": "423011",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "9x7966",
+            "fingers": "302411",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "ljjxii",
+            "fingers": "423011",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "lxjlii",
+            "fingers": "302411",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

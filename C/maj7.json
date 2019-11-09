@@ -1,0 +1,178 @@
+{
+    "key": "C",
+    "suffix": "maj7",
+    "positions": [
+        {
+            "frets": "x32000",
+            "fingers": "021000"
+        },
+        {
+            "frets": "x32003",
+            "fingers": "021003"
+        },
+        {
+            "frets": "x35453",
+            "fingers": "013241",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "8a9988",
+            "fingers": "142311",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "x3241x",
+            "fingers": "032410"
+        },
+        {
+            "frets": "8799x7",
+            "fingers": "213401",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "x3245x",
+            "fingers": "021340"
+        },
+        {
+            "frets": "x324x3",
+            "fingers": "021403"
+        },
+        {
+            "frets": "87x987",
+            "fingers": "210431",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "875557",
+            "fingers": "421113",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "87a9x7",
+            "fingers": "214301",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "879x87",
+            "fingers": "214031",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xxaccc",
+            "fingers": "001234"
+        },
+        {
+            "frets": "87ax87",
+            "fingers": "214031",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "xxa987",
+            "fingers": "004321"
+        },
+        {
+            "frets": "xfeccc",
+            "fingers": "043111",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xxa9cc",
+            "fingers": "002134"
+        },
+        {
+            "frets": "kmllkk",
+            "fingers": "142311",
+            "barres": "20",
+            "capo": "true"
+        },
+        {
+            "frets": "xfhghf",
+            "fingers": "013241",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "879xx8",
+            "fingers": "214003"
+        },
+        {
+            "frets": "xfeccf",
+            "fingers": "032114",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "8ax9x7",
+            "fingers": "240301"
+        },
+        {
+            "frets": "kjllxj",
+            "fingers": "213401",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "kjhhhj",
+            "fingers": "421113",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xfegdx",
+            "fingers": "032410"
+        },
+        {
+            "frets": "kjxlkj",
+            "fingers": "210431",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "kjmlxj",
+            "fingers": "214301",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "kjlxkj",
+            "fingers": "214031",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xfeghx",
+            "fingers": "021340"
+        },
+        {
+            "frets": "xfegxf",
+            "fingers": "021403"
+        },
+        {
+            "frets": "kjmxkj",
+            "fingers": "214031",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "xxmlkj",
+            "fingers": "004321"
+        },
+        {
+            "frets": "kjlxxk",
+            "fingers": "214003"
+        },
+        {
+            "frets": "kmxlxj",
+            "fingers": "240301"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "key": "D#",
+    "suffix": "dim/A",
+    "positions": [
+        {
+            "frets": "x012x2",
+            "fingers": "001203"
+        },
+        {
+            "frets": "567x75",
+            "fingers": "123041",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "56x875",
+            "fingers": "120431",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "5x7875",
+            "fingers": "102431",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "564x45",
+            "fingers": "241013",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "564x7x",
+            "fingers": "231040"
+        },
+        {
+            "frets": "xcdbxb",
+            "fingers": "034102"
+        },
+        {
+            "frets": "xcdexe",
+            "fingers": "012304"
+        },
+        {
+            "frets": "xcdbax",
+            "fingers": "034210"
+        },
+        {
+            "frets": "xcxbab",
+            "fingers": "040213"
+        },
+        {
+            "frets": "hijxjh",
+            "fingers": "123041",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "hxgege",
+            "fingers": "402131",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xcdbxe",
+            "fingers": "023104"
+        },
+        {
+            "frets": "hixkjh",
+            "fingers": "120431",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "hxjkjh",
+            "fingers": "102431",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "higxgh",
+            "fingers": "241013",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "higxjx",
+            "fingers": "231040"
+        }
+    ]
+}

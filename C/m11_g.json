@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "m11/G",
+    "positions": [
+        {
+            "frets": "311311",
+            "fingers": "311411",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "331311",
+            "fingers": "231411",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "fddfdd",
+            "fingers": "311411",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "ffdfdd",
+            "fingers": "231411",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

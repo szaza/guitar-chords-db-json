@@ -1,0 +1,20 @@
+{
+    "key": "F",
+    "suffix": "augmaj9/F#",
+    "positions": [
+        {
+            "frets": "203020",
+            "fingers": "103020"
+        },
+        {
+            "frets": "202021",
+            "fingers": "203041"
+        },
+        {
+            "frets": "ecfcec",
+            "fingers": "214131",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

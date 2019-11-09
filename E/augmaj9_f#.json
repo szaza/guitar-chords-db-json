@@ -1,0 +1,26 @@
+{
+    "key": "E",
+    "suffix": "augmaj9/F#",
+    "positions": [
+        {
+            "frets": "2x1110",
+            "fingers": "401230"
+        },
+        {
+            "frets": "2311x0",
+            "fingers": "341200"
+        },
+        {
+            "frets": "x9a99b",
+            "fingers": "012113",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "ebexdb",
+            "fingers": "314021",
+            "barres": "11",
+            "capo": "true"
+        }
+    ]
+}

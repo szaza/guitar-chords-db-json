@@ -1,0 +1,74 @@
+{
+    "key": "A#",
+    "suffix": "dim/G",
+    "positions": [
+        {
+            "frets": "312x20",
+            "fingers": "412030"
+        },
+        {
+            "frets": "3x2320",
+            "fingers": "301420"
+        },
+        {
+            "frets": "xx5656",
+            "fingers": "001324"
+        },
+        {
+            "frets": "31x320",
+            "fingers": "310420"
+        },
+        {
+            "frets": "34x356",
+            "fingers": "120134",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "xab9b9",
+            "fingers": "023141",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "3xx656",
+            "fingers": "100324"
+        },
+        {
+            "frets": "xabxbc",
+            "fingers": "012034"
+        },
+        {
+            "frets": "fgefex",
+            "fingers": "241310",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fgxfhi",
+            "fingers": "120134",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "xxhihi",
+            "fingers": "001324"
+        },
+        {
+            "frets": "fxxfec",
+            "fingers": "300421"
+        },
+        {
+            "frets": "fdxxec",
+            "fingers": "420031"
+        },
+        {
+            "frets": "xmklxl",
+            "fingers": "041203"
+        },
+        {
+            "frets": "fxxihi",
+            "fingers": "100324"
+        }
+    ]
+}

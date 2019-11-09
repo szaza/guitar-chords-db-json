@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "m9/D#",
+    "positions": [
+        {
+            "frets": "baacba",
+            "fingers": "211431",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bdacxa",
+            "fingers": "241301",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bdaxda",
+            "fingers": "231041",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bdaxba",
+            "fingers": "241031",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

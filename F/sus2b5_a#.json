@@ -1,0 +1,94 @@
+{
+    "key": "F",
+    "suffix": "sus2b5/A#",
+    "positions": [
+        {
+            "frets": "x13003",
+            "fingers": "013004"
+        },
+        {
+            "frets": "x13001",
+            "fingers": "014002"
+        },
+        {
+            "frets": "x134x3",
+            "fingers": "012403"
+        },
+        {
+            "frets": "6x3463",
+            "fingers": "301241",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "6x546x",
+            "fingers": "302140"
+        },
+        {
+            "frets": "689x8x",
+            "fingers": "124030"
+        },
+        {
+            "frets": "6x5x67",
+            "fingers": "201034"
+        },
+        {
+            "frets": "xx8a87",
+            "fingers": "002431"
+        },
+        {
+            "frets": "685xx7",
+            "fingers": "241003"
+        },
+        {
+            "frets": "xdfccf",
+            "fingers": "023114",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "68xx87",
+            "fingers": "130042"
+        },
+        {
+            "frets": "xdfccd",
+            "fingers": "024113",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "xdfgxf",
+            "fingers": "012403"
+        },
+        {
+            "frets": "ixfgif",
+            "fingers": "301241",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "ixhgix",
+            "fingers": "302140"
+        },
+        {
+            "frets": "iklxkx",
+            "fingers": "124030"
+        },
+        {
+            "frets": "ixhxij",
+            "fingers": "201034"
+        },
+        {
+            "frets": "xxkmkj",
+            "fingers": "002431"
+        },
+        {
+            "frets": "ikhxxj",
+            "fingers": "241003"
+        },
+        {
+            "frets": "ikxxkj",
+            "fingers": "130042"
+        }
+    ]
+}

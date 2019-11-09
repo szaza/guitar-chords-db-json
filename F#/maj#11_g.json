@@ -1,0 +1,42 @@
+{
+    "key": "F#",
+    "suffix": "maj#11/G",
+    "positions": [
+        {
+            "frets": "314111",
+            "fingers": "314111",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "314311",
+            "fingers": "214311",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "313112",
+            "fingers": "314112",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "fdgddd",
+            "fingers": "314111",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "fdgfdd",
+            "fingers": "214311",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "fdfdde",
+            "fingers": "314112",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

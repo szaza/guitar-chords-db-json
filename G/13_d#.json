@@ -1,0 +1,30 @@
+{
+    "key": "G",
+    "suffix": "13/D#",
+    "positions": [
+        {
+            "frets": "x63453",
+            "fingers": "041231",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "b89988",
+            "fingers": "412311",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "baxacc",
+            "fingers": "210134",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xifghf",
+            "fingers": "041231",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

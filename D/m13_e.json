@@ -1,0 +1,32 @@
+{
+    "key": "D",
+    "suffix": "m13/E",
+    "positions": [
+        {
+            "frets": "030001",
+            "fingers": "030001"
+        },
+        {
+            "frets": "030201",
+            "fingers": "030201"
+        },
+        {
+            "frets": "ccaaca",
+            "fingers": "231141",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cfcccd",
+            "fingers": "141112",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "cfcecd",
+            "fingers": "141312",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

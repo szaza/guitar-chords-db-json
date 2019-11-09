@@ -1,0 +1,24 @@
+{
+    "key": "A",
+    "suffix": "m11/A#",
+    "positions": [
+        {
+            "frets": "635x35",
+            "fingers": "412013",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "xdacaa",
+            "fingers": "041311",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ifhxfh",
+            "fingers": "412013",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

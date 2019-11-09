@@ -1,0 +1,30 @@
+{
+    "key": "A",
+    "suffix": "augmaj7/A#",
+    "positions": [
+        {
+            "frets": "687699",
+            "fingers": "132144",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "647x64",
+            "fingers": "214031",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "ikjill",
+            "fingers": "132144",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "igjxig",
+            "fingers": "214031",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

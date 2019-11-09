@@ -1,0 +1,24 @@
+{
+    "key": "C#",
+    "suffix": "m11/G",
+    "positions": [
+        {
+            "frets": "322422",
+            "fingers": "214311",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "feegee",
+            "fingers": "211311",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "fgegee",
+            "fingers": "231411",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

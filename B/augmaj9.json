@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "augmaj9",
+    "positions": [
+        {
+            "frets": "768686",
+            "fingers": "213141",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "769686",
+            "fingers": "214131",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "jikiki",
+            "fingers": "213141",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "jiliki",
+            "fingers": "214131",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

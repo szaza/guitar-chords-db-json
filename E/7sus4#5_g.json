@@ -1,0 +1,36 @@
+{
+    "key": "E",
+    "suffix": "7sus4#5/G",
+    "positions": [
+        {
+            "frets": "300210",
+            "fingers": "300210"
+        },
+        {
+            "frets": "330210",
+            "fingers": "340210"
+        },
+        {
+            "frets": "330230",
+            "fingers": "230140"
+        },
+        {
+            "frets": "fccedc",
+            "fingers": "411321",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "ffeefx",
+            "fingers": "231140",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "ffcexc",
+            "fingers": "341201",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

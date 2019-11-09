@@ -1,0 +1,24 @@
+{
+    "key": "E",
+    "suffix": "11/G",
+    "positions": [
+        {
+            "frets": "feeefg",
+            "fingers": "211134",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "xacdac",
+            "fingers": "012413",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "fheexg",
+            "fingers": "241103",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

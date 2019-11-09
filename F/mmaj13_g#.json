@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "mmaj13/G#",
+    "positions": [
+        {
+            "frets": "4x2131",
+            "fingers": "402131",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "47x764",
+            "fingers": "130421",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "gxedfd",
+            "fingers": "402131",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "gjxjig",
+            "fingers": "130421",
+            "barres": "16",
+            "capo": "true"
+        }
+    ]
+}

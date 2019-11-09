@@ -1,0 +1,92 @@
+{
+    "key": "D",
+    "suffix": "mbb5/A#",
+    "positions": [
+        {
+            "frets": "x13033",
+            "fingers": "012034"
+        },
+        {
+            "frets": "x10031",
+            "fingers": "010042"
+        },
+        {
+            "frets": "653x33",
+            "fingers": "431011",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "x13031",
+            "fingers": "013042"
+        },
+        {
+            "frets": "65576x",
+            "fingers": "211430",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "653x63",
+            "fingers": "321041",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "xx8a8a",
+            "fingers": "001324"
+        },
+        {
+            "frets": "6857xx",
+            "fingers": "241300"
+        },
+        {
+            "frets": "68x78x",
+            "fingers": "130240"
+        },
+        {
+            "frets": "xdfxff",
+            "fingers": "012034"
+        },
+        {
+            "frets": "ihfxff",
+            "fingers": "431011",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "xdccfd",
+            "fingers": "021143",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "ihhjix",
+            "fingers": "211430",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ihfxif",
+            "fingers": "321041",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "xdfcfx",
+            "fingers": "023140"
+        },
+        {
+            "frets": "xxkmkm",
+            "fingers": "001324"
+        },
+        {
+            "frets": "ikhjxx",
+            "fingers": "241300"
+        },
+        {
+            "frets": "ikxjkx",
+            "fingers": "130240"
+        }
+    ]
+}

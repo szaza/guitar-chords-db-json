@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "mbb5/A",
+    "positions": [
+        {
+            "frets": "5x3364",
+            "fingers": "301142",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "5x636x",
+            "fingers": "203140"
+        },
+        {
+            "frets": "xcxdbd",
+            "fingers": "020314"
+        },
+        {
+            "frets": "hxffig",
+            "fingers": "301142",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "hxifix",
+            "fingers": "203140"
+        }
+    ]
+}

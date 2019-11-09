@@ -1,0 +1,22 @@
+{
+    "key": "D",
+    "suffix": "mmaj7#5/C",
+    "positions": [
+        {
+            "frets": "x30321",
+            "fingers": "030421"
+        },
+        {
+            "frets": "x33636",
+            "fingers": "011213",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "xffifi",
+            "fingers": "011213",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

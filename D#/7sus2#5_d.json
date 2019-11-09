@@ -1,0 +1,24 @@
+{
+    "key": "D#",
+    "suffix": "7sus2#5/D",
+    "positions": [
+        {
+            "frets": "axbacb",
+            "fingers": "102143",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "a898x9",
+            "fingers": "412103",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "mklkxl",
+            "fingers": "412103",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "key": "F",
+    "suffix": "augmaj7/G#",
+    "positions": [
+        {
+            "frets": "443x55",
+            "fingers": "231044",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "xbbaac",
+            "fingers": "023114",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ggfxhh",
+            "fingers": "231044",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

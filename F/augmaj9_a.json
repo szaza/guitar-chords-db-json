@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "augmaj9/A",
+    "positions": [
+        {
+            "frets": "543x53",
+            "fingers": "321041",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "5x3653",
+            "fingers": "201431",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "hgfxhf",
+            "fingers": "321041",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "hxfihf",
+            "fingers": "201431",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

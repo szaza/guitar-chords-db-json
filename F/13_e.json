@@ -1,0 +1,36 @@
+{
+    "key": "F",
+    "suffix": "13/E",
+    "positions": [
+        {
+            "frets": "001231",
+            "fingers": "001342"
+        },
+        {
+            "frets": "001331",
+            "fingers": "001342"
+        },
+        {
+            "frets": "001031",
+            "fingers": "001042"
+        },
+        {
+            "frets": "031231",
+            "fingers": "031241",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "ccdaaa",
+            "fingers": "234111",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "ccdcfd",
+            "fingers": "112143",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

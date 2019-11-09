@@ -1,0 +1,28 @@
+{
+    "key": "F#",
+    "suffix": "7sus2sus4/F",
+    "positions": [
+        {
+            "frets": "1221x2",
+            "fingers": "123104",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "1x2102",
+            "fingers": "103204"
+        },
+        {
+            "frets": "dbbbcc",
+            "fingers": "311124",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "deedxe",
+            "fingers": "123104",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

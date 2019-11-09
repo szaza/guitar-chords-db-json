@@ -1,0 +1,42 @@
+{
+    "key": "E",
+    "suffix": "maj#11/C",
+    "positions": [
+        {
+            "frets": "866996",
+            "fingers": "211341",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "8768x6",
+            "fingers": "321401",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "866976",
+            "fingers": "311421",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "kiilli",
+            "fingers": "211341",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "kiilji",
+            "fingers": "311421",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "kjikxi",
+            "fingers": "321401",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

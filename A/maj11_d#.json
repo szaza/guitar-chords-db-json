@@ -1,0 +1,18 @@
+{
+    "key": "A",
+    "suffix": "maj11/D#",
+    "positions": [
+        {
+            "frets": "bbbxaa",
+            "fingers": "234011",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "bxbdaa",
+            "fingers": "203411",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

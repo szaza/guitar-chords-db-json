@@ -1,0 +1,34 @@
+{
+    "key": "F",
+    "suffix": "add9/D",
+    "positions": [
+        {
+            "frets": "acacdd",
+            "fingers": "121344",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "acacad",
+            "fingers": "121314",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "x532x3",
+            "fingers": "042103"
+        },
+        {
+            "frets": "a87x8x",
+            "fingers": "421030"
+        },
+        {
+            "frets": "xhfexf",
+            "fingers": "042103"
+        },
+        {
+            "frets": "mkjxkx",
+            "fingers": "421030"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "key": "A#",
+    "suffix": "mmaj7b5",
+    "positions": [
+        {
+            "frets": "x12220",
+            "fingers": "012340"
+        },
+        {
+            "frets": "6776x6",
+            "fingers": "123101",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "6x7655",
+            "fingers": "204311",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "67x655",
+            "fingers": "240311",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "6776x9",
+            "fingers": "123104",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xx89a9",
+            "fingers": "001243"
+        },
+        {
+            "frets": "6x8655",
+            "fingers": "204311",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "xdeeex",
+            "fingers": "012340"
+        },
+        {
+            "frets": "ijjixi",
+            "fingers": "123101",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "xdbebc",
+            "fingers": "031412",
+            "barres": "11",
+            "capo": "true"
+        },
+        {
+            "frets": "xdxeec",
+            "fingers": "020341"
+        },
+        {
+            "frets": "ixjihh",
+            "fingers": "204311",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xdbxac",
+            "fingers": "042013"
+        },
+        {
+            "frets": "ijxihh",
+            "fingers": "240311",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ijjixl",
+            "fingers": "123104",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "ixkihh",
+            "fingers": "204311",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xxklml",
+            "fingers": "001243"
+        }
+    ]
+}

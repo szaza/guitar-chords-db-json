@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "mbb5/E",
+    "positions": [
+        {
+            "frets": "031x11",
+            "fingers": "031011",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "x7x868",
+            "fingers": "020314"
+        },
+        {
+            "frets": "cxaadb",
+            "fingers": "301142",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cxdadx",
+            "fingers": "203140"
+        },
+        {
+            "frets": "xjxkik",
+            "fingers": "020314"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "key": "F",
+    "suffix": "7#9/F#",
+    "positions": [
+        {
+            "frets": "201111",
+            "fingers": "201111",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "ecdddd",
+            "fingers": "312224",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "effegg",
+            "fingers": "123144",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

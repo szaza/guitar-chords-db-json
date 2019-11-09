@@ -1,0 +1,30 @@
+{
+    "key": "D",
+    "suffix": "maj11/A",
+    "positions": [
+        {
+            "frets": "544x33",
+            "fingers": "423011",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "5x4633",
+            "fingers": "302411",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "hggxff",
+            "fingers": "423011",
+            "barres": "15",
+            "capo": "true"
+        },
+        {
+            "frets": "hxgiff",
+            "fingers": "302411",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

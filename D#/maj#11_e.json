@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "maj#11/E",
+    "positions": [
+        {
+            "frets": "011233",
+            "fingers": "011234",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "cadaaa",
+            "fingers": "314111",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cadcaa",
+            "fingers": "214311",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cacaab",
+            "fingers": "314112",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

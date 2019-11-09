@@ -1,0 +1,34 @@
+{
+    "key": "D#",
+    "suffix": "9b5/G",
+    "positions": [
+        {
+            "frets": "301221",
+            "fingers": "401231",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "301021",
+            "fingers": "401032"
+        },
+        {
+            "frets": "3412x1",
+            "fingers": "341201",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "fxdeed",
+            "fingers": "401231",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "fgdexd",
+            "fingers": "341201",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "key": "C",
+    "suffix": "augmaj9",
+    "positions": [
+        {
+            "frets": "879797",
+            "fingers": "213141",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "87a797",
+            "fingers": "214131",
+            "barres": "7",
+            "capo": "true"
+        },
+        {
+            "frets": "kjljlj",
+            "fingers": "213141",
+            "barres": "19",
+            "capo": "true"
+        },
+        {
+            "frets": "kjmjlj",
+            "fingers": "214131",
+            "barres": "19",
+            "capo": "true"
+        }
+    ]
+}

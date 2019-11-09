@@ -1,0 +1,92 @@
+{
+    "key": "C#",
+    "suffix": "/A",
+    "positions": [
+        {
+            "frets": "x03121",
+            "fingers": "004132"
+        },
+        {
+            "frets": "54666x",
+            "fingers": "213340",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "54x664",
+            "fingers": "210341",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "546x64",
+            "fingers": "213041",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "xcba99",
+            "fingers": "043211",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "xx7664",
+            "fingers": "004231"
+        },
+        {
+            "frets": "5x3x24",
+            "fingers": "402013"
+        },
+        {
+            "frets": "543xx4",
+            "fingers": "421003"
+        },
+        {
+            "frets": "xx7a99",
+            "fingers": "001423"
+        },
+        {
+            "frets": "5x36x4",
+            "fingers": "301402"
+        },
+        {
+            "frets": "hgiiix",
+            "fingers": "213340",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "hgxiig",
+            "fingers": "210341",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "hgixig",
+            "fingers": "213041",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "xxjiig",
+            "fingers": "004231"
+        },
+        {
+            "frets": "hxfxeg",
+            "fingers": "402013"
+        },
+        {
+            "frets": "hgfxxg",
+            "fingers": "421003"
+        },
+        {
+            "frets": "xxjmll",
+            "fingers": "001423"
+        },
+        {
+            "frets": "hxfixg",
+            "fingers": "301402"
+        }
+    ]
+}

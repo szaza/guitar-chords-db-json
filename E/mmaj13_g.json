@@ -1,0 +1,32 @@
+{
+    "key": "E",
+    "suffix": "mmaj13/G",
+    "positions": [
+        {
+            "frets": "321020",
+            "fingers": "421030"
+        },
+        {
+            "frets": "3x1220",
+            "fingers": "401230"
+        },
+        {
+            "frets": "36x653",
+            "fingers": "130421",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "fxdcec",
+            "fingers": "402131",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "fixihf",
+            "fingers": "130421",
+            "barres": "15",
+            "capo": "true"
+        }
+    ]
+}

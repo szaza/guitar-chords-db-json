@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "maj#11/F",
+    "positions": [
+        {
+            "frets": "111233",
+            "fingers": "111234",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "dddeff",
+            "fingers": "111234",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "dadcaa",
+            "fingers": "314211",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dacxab",
+            "fingers": "413012",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

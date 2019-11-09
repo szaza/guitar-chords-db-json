@@ -1,0 +1,34 @@
+{
+    "key": "A#",
+    "suffix": "augmaj9",
+    "positions": [
+        {
+            "frets": "x10212",
+            "fingers": "010324"
+        },
+        {
+            "frets": "657575",
+            "fingers": "213141",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "658575",
+            "fingers": "214131",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "ihjhjh",
+            "fingers": "213141",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "ihkhjh",
+            "fingers": "214131",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

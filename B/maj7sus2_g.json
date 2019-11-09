@@ -1,0 +1,24 @@
+{
+    "key": "B",
+    "suffix": "maj7sus2/G",
+    "positions": [
+        {
+            "frets": "324322",
+            "fingers": "214311",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
+            "frets": "xa9bb9",
+            "fingers": "021341",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "fegfee",
+            "fingers": "214311",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

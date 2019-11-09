@@ -1,0 +1,36 @@
+{
+    "key": "F",
+    "suffix": "aug7/F#",
+    "positions": [
+        {
+            "frets": "201221",
+            "fingers": "201341",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "2412x1",
+            "fingers": "241301",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "exdeed",
+            "fingers": "201341",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "egfegx",
+            "fingers": "132140",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "egdexd",
+            "fingers": "241301",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

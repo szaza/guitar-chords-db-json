@@ -1,0 +1,40 @@
+{
+    "key": "G",
+    "suffix": "7sus2#5/D#",
+    "positions": [
+        {
+            "frets": "x65865",
+            "fingers": "021431",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "badaad",
+            "fingers": "213114",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "badaab",
+            "fingers": "214113",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "baxcad",
+            "fingers": "210314",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xxdcad",
+            "fingers": "003214"
+        },
+        {
+            "frets": "xihkih",
+            "fingers": "021431",
+            "barres": "17",
+            "capo": "true"
+        }
+    ]
+}

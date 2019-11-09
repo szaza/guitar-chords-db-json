@@ -1,0 +1,76 @@
+{
+    "key": "F",
+    "suffix": "7#9",
+    "positions": [
+        {
+            "frets": "10111x",
+            "fingers": "102340"
+        },
+        {
+            "frets": "1011x1",
+            "fingers": "102304"
+        },
+        {
+            "frets": "131244",
+            "fingers": "131244",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "131214",
+            "fingers": "131214",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "1x3244",
+            "fingers": "103244",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "x8789x",
+            "fingers": "021340"
+        },
+        {
+            "frets": "dfdegg",
+            "fingers": "131244",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "dfdedg",
+            "fingers": "131214",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "dcddxx",
+            "fingers": "213400"
+        },
+        {
+            "frets": "dxfegg",
+            "fingers": "103244",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "dxadab",
+            "fingers": "301412",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "dcxdxb",
+            "fingers": "320401"
+        },
+        {
+            "frets": "dxddax",
+            "fingers": "203410"
+        },
+        {
+            "frets": "xkjklx",
+            "fingers": "021340"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "key": "G#",
+    "suffix": "mbb5/C#",
+    "positions": [
+        {
+            "frets": "x464x4",
+            "fingers": "014203"
+        },
+        {
+            "frets": "9b9x99",
+            "fingers": "131011",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "x4x424",
+            "fingers": "020314"
+        },
+        {
+            "frets": "x464x7",
+            "fingers": "013204"
+        },
+        {
+            "frets": "x466x7",
+            "fingers": "012304"
+        },
+        {
+            "frets": "9b9xc9",
+            "fingers": "131041",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "9bbxc9",
+            "fingers": "123041",
+            "barres": "9",
+            "capo": "true"
+        },
+        {
+            "frets": "9x6697",
+            "fingers": "301142",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "9x9x97",
+            "fingers": "203041"
+        },
+        {
+            "frets": "9x969x",
+            "fingers": "203140"
+        },
+        {
+            "frets": "lxlxll",
+            "fingers": "101011",
+            "barres": "21",
+            "capo": "true"
+        },
+        {
+            "frets": "xgigxg",
+            "fingers": "014203"
+        },
+        {
+            "frets": "xxbdcx",
+            "fingers": "001320"
+        },
+        {
+            "frets": "xgxgeg",
+            "fingers": "020314"
+        },
+        {
+            "frets": "xgigxj",
+            "fingers": "013204"
+        },
+        {
+            "frets": "xgiixj",
+            "fingers": "012304"
+        },
+        {
+            "frets": "lxiilj",
+            "fingers": "301142",
+            "barres": "18",
+            "capo": "true"
+        },
+        {
+            "frets": "lxlxlj",
+            "fingers": "203041"
+        },
+        {
+            "frets": "lxlilx",
+            "fingers": "203140"
+        }
+    ]
+}

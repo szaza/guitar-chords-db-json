@@ -1,0 +1,30 @@
+{
+    "key": "F",
+    "suffix": "m9/A#",
+    "positions": [
+        {
+            "frets": "x13143",
+            "fingers": "012143",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "68688x",
+            "fingers": "121340",
+            "barres": "6",
+            "capo": "true"
+        },
+        {
+            "frets": "xdfdgf",
+            "fingers": "012143",
+            "barres": "13",
+            "capo": "true"
+        },
+        {
+            "frets": "ikikkx",
+            "fingers": "121340",
+            "barres": "18",
+            "capo": "true"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "key": "D#",
+    "suffix": "augmaj7/F",
+    "positions": [
+        {
+            "frets": "121033",
+            "fingers": "132044",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "x8988a",
+            "fingers": "012113",
+            "barres": "8",
+            "capo": "true"
+        },
+        {
+            "frets": "dadxca",
+            "fingers": "314021",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "xklkkm",
+            "fingers": "012113",
+            "barres": "20",
+            "capo": "true"
+        }
+    ]
+}

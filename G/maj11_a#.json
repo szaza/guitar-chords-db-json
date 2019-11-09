@@ -1,0 +1,30 @@
+{
+    "key": "G",
+    "suffix": "maj11/A#",
+    "positions": [
+        {
+            "frets": "655577",
+            "fingers": "211134",
+            "barres": "5",
+            "capo": "true"
+        },
+        {
+            "frets": "x14413",
+            "fingers": "013412",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "ihhhjj",
+            "fingers": "211134",
+            "barres": "17",
+            "capo": "true"
+        },
+        {
+            "frets": "xdggdf",
+            "fingers": "013412",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

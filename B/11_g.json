@@ -1,0 +1,20 @@
+{
+    "key": "B",
+    "suffix": "11/G",
+    "positions": [
+        {
+            "frets": "301200",
+            "fingers": "301200"
+        },
+        {
+            "frets": "321200",
+            "fingers": "421300"
+        },
+        {
+            "frets": "fcdecc",
+            "fingers": "412311",
+            "barres": "12",
+            "capo": "true"
+        }
+    ]
+}

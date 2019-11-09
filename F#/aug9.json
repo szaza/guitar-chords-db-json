@@ -1,0 +1,28 @@
+{
+    "key": "F#",
+    "suffix": "aug9",
+    "positions": [
+        {
+            "frets": "21213x",
+            "fingers": "213140",
+            "barres": "1",
+            "capo": "true"
+        },
+        {
+            "frets": "210130",
+            "fingers": "310240"
+        },
+        {
+            "frets": "edcdxc",
+            "fingers": "421301",
+            "barres": "12",
+            "capo": "true"
+        },
+        {
+            "frets": "ededfx",
+            "fingers": "213140",
+            "barres": "13",
+            "capo": "true"
+        }
+    ]
+}

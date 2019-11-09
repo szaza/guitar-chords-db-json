@@ -1,0 +1,30 @@
+{
+    "key": "B",
+    "suffix": "aug7/G#",
+    "positions": [
+        {
+            "frets": "465445",
+            "fingers": "142113",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "gihggh",
+            "fingers": "142113",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "gehegx",
+            "fingers": "214130",
+            "barres": "14",
+            "capo": "true"
+        },
+        {
+            "frets": "gexegf",
+            "fingers": "310142",
+            "barres": "14",
+            "capo": "true"
+        }
+    ]
+}

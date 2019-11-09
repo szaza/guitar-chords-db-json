@@ -1,0 +1,34 @@
+{
+    "key": "C",
+    "suffix": "9sus4/E",
+    "positions": [
+        {
+            "frets": "033333",
+            "fingers": "014111",
+            "barres": "3",
+            "capo": "true"
+        },
+        {
+            "frets": "03x331",
+            "fingers": "020341"
+        },
+        {
+            "frets": "caaaba",
+            "fingers": "311121",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cdaaba",
+            "fingers": "341121",
+            "barres": "10",
+            "capo": "true"
+        },
+        {
+            "frets": "cdaada",
+            "fingers": "231141",
+            "barres": "10",
+            "capo": "true"
+        }
+    ]
+}

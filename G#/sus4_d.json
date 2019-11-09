@@ -1,0 +1,34 @@
+{
+    "key": "G#",
+    "suffix": "sus4/D",
+    "positions": [
+        {
+            "frets": "x56644",
+            "fingers": "023411",
+            "barres": "4",
+            "capo": "true"
+        },
+        {
+            "frets": "abb8xx",
+            "fingers": "234100"
+        },
+        {
+            "frets": "xhiigg",
+            "fingers": "023411",
+            "barres": "16",
+            "capo": "true"
+        },
+        {
+            "frets": "axbx9b",
+            "fingers": "203014"
+        },
+        {
+            "frets": "xxcdeb",
+            "fingers": "002341"
+        },
+        {
+            "frets": "mxxkll",
+            "fingers": "400123"
+        }
+    ]
+}
