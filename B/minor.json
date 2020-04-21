@@ -3,6 +3,12 @@
     "suffix": "minor",
     "positions": [
         {
+            "frets": "x24432",
+            "fingers": "013421",
+            "barres": "2",
+            "capo": "true"
+        },
+        {
             "frets": "x20x02",
             "fingers": "010002"
         },
